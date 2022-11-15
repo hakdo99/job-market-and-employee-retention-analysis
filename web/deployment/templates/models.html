@@ -1,0 +1,44 @@
+{% extends "layout.html" %}
+{% block models %}
+active
+{% endblock %}
+{% block content %}
+    <div class="container">
+		<h2 style="color: #2e6c80;">Our Model Design</h2>
+		<img src="/static/images/model.png" alt="Our Model Design" />
+
+		<p><strong>1. Job Skills Extraction</strong></p>
+		<p><strong>Model Architecture: </strong><strong>Neural Network with BERT Embeddings</strong></p>
+			<ul>
+			<li>The training was split (80/20) into training and test data for cross validation with 6,354 training samples and 1,589 validation samples<strong><br /></strong></li>
+			<li>BERT model chosen: It was the &ldquo;largest&rdquo; BERT model to choose from, consists of 12 transformer layers and 768 hidden embedding sizes. pretrained using text from Wikipedia</li>
+			<li>Entire BERT model will not be used for the classification &agrave; word embeddings would be used with custom neural network built to solve the classification problem</li>
+			<li>Using Word Embedding:<br />
+				<ul>
+				<li>allow words with similar meaning to have the same representation</li>
+				<li>lower dimensional dense vectors instead of sparse vector (e.g. one hot encoding) - sparse vector makes it difficult for a neural network to learn and exhaust computational power</li>
+				</ul>
+			</li>
+			</ul>
+		<p><strong>Transfer Learning</strong></p>
+			<ul>
+			<li>Allow the model to be trained on subset of linkedin dataset before applying the model across the full dataset</li>
+			<li>Essential in our project as we could only obtain a full dataset till very late in our project</li>
+			</ul>
+		<p><strong>2. Employee Retention Prediction</strong></p>
+			<ul>
+				<li>Logistic Regression: AUC = 0.83</li>
+				<li>Give live prediction on the probability of an employee leaving the company based on employee information</li>
+			</ul>
+		<p><strong>3. Job Title Similarity&nbsp;</strong></p>
+			<ul>
+			<li>Multi-class Text Classification: Department and Responsibilities</li>
+			</ul>
+		<p><strong>4. Salary Distribution Distance</strong></p>
+			<ul>
+			<li>Quantify the difference between employee salary distributions and salary distributions in job posts</li>
+			<li>KL divergence score to determine Statistical Distance</li>
+			<li>KL(P || Q) = sum x in X P(x) * log(P(x) / Q(x))</li>
+			</ul>
+    </div>
+{% endblock %}

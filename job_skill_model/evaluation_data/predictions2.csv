@@ -1,0 +1,250 @@
+,extractions,actual,possibility,prediction_prob
+0,the sales associate,1,0,0.8856054
+1,a customer-oriented sales,1,0,0.6092408
+2,ample experience,1,0,0.8433019
+3,maintenance agreements,0,1,1.2875152
+4,refrigeration industry,1,0,0.59758496
+5,this position,0,0,0.46351492
+6,business development goals,0,1,1.1118664
+7,objectives,0,0,0.30209792
+8,the service agreement base,0,1,0.9440421
+9,the area,0,0,0.18611252
+10,the sales,0,0,0.28973725
+11,changes,0,0,0.38117796
+12,the marketplace,0,0,0.845452
+13,general duties,0,0,0.98705107
+14,individual sales,0,0,0.98281884
+15,new maintenance agreements,0,1,0.8785132
+16,coordination,0,0,0.7945544
+17,the sales manager,0,0,1.2171161
+18,other senior managers,0,0,0.44910324
+19,goals,0,0,0.18741657
+20,specific plans,0,0,0.8129144
+21,growth,0,0,0.5850111
+22,service agreement opportunities,0,1,1.3844924
+23,prospects,0,0,0.31765926
+24,’ equipment,0,0,0.8440713
+25,service agreement proposals,0,1,1.3844924
+26,warm calls,0,0,0.5959645
+27,billable accounts,0,0,0.7671357
+28,intention,0,0,0.50334126
+29,agreement customers,0,0,1.0220855
+30,respond,0,0,0.26466066
+31,service opportunities,0,0,1.3835623
+32,problems,0,0,0.20227931
+33,issues,0,0,0.17382018
+34,service operations,1,1,1.353859
+35,service technicians,1,0,1.4074996
+36,interface,0,0,0.5036081
+37,new customers,0,0,0.35381243
+38,needs,0,0,0.16713235
+39,solutions,0,0,0.67515755
+40,service agreements,0,1,1.3844924
+41,repairs,1,1,0.27318683
+42,equipment,1,1,0.8606233
+43,controls upgrades,1,1,1.0350182
+44,system enhancements,0,0,1.2972311
+45,requests,0,0,0.23703825
+46,pursue opportunities,0,0,0.77154005
+47,proposals,0,0,0.33080015
+48,secure purchase order,1,1,1.190061
+49,necessary authorization,0,0,1.0789135
+50,site safety risks,0,0,0.98876333
+51,scope,0,0,0.24528833
+52,estimate,0,0,0.36136332
+53,sales meetings,0,0,1.3124464
+54,awareness,0,1,0.378229
+55,competitors,0,0,0.6519681
+56,initiatives,0,0,0.2396189
+57,new customer accounts,0,0,0.982721
+58,the branch,0,0,0.5180119
+59,ability/skill,0,0,0.377723
+60,strong communication,1,0,0.8944539
+61,problem solving,1,0,0.71051824
+62,analytical skills,1,0,1.3331361
+63,strong negotiation skills,1,0,0.8775304
+64,ability,0,0,0.21354467
+65,ratio,0,0,0.4942384
+66,excellent attention,1,0,0.46398795
+67,an eye,0,1,0.17738904
+68,accuracy,1,0,0.50279087
+69,excellent organizational skills,1,0,0.619192
+70,sales quotas,0,0,1.2749573
+71,deadlines,0,0,0.24568719
+72,good judgment,1,0,0.86531574
+73,demands,0,0,0.25838208
+74,priorities,0,0,0.2539935
+75,an in-depth knowledge,0,0,0.6287793
+76,understating,0,0,1.1077971
+77,hvac,1,1,0.93435574
+78,refrigeration systems,0,1,0.5906753
+79,the ability,0,0,0.2626095
+80,training manuals,0,0,1.2372061
+81,schematics,0,0,1.22643
+82,circuits,0,0,0.8623627
+83,competent,1,1,0.4619875
+84,various software programs,0,0,0.91450304
+85,word,0,0,0.23026085
+86,excel,1,0,0.29050004
+87,outlook,1,0,0.22708161
+88,bluebeam,1,0,0.2698027
+89,ms project,1,1,1.3689657
+90,a plus,0,0,0.17743443
+91,a fast-changing environment,0,0,0.8754489
+92,exceptional customer service skills,1,0,0.5277499
+93,high level,0,0,0.23169881
+94,patience,1,0,0.5931351
+95,professionalism,1,0,0.5210633
+96,valid driver ’ s license,0,1,1.2396072
+97,insurable driving record,0,1,1.2366042
+98,eagerness,1,0,0.3902124
+99,the division,0,0,0.52196026
+100,education requirements,0,0,0.85651886
+101,high school diploma,0,0,0.6099258
+102,some post-high school education,0,0,0.65218663
+103,college,0,0,0.44108942
+104,trade school,0,0,1.0244977
+105,years,0,0,0.17324808
+106,sales,0,0,0.74156123
+107,related experience,0,0,0.6831016
+108,an equivalent combination,0,0,1.1410269
+109,education,0,0,0.67006975
+110,experience,0,0,0.3862697
+111,job schedule,0,0,0.6791573
+112,full-time,0,0,0.21789268
+113,current work hours,0,0,0.77836174
+114,pm,0,0,0.21438885
+115,work location,0,0,0.5010778
+116,cotati,0,0,0.32597426
+117,addition,0,0,0.3344518
+118,a competitive salary,0,0,0.945802
+119,lmc offers,0,0,0.5729424
+120,life insurance,0,0,0.8836199
+121,k,0,0,0.20477025
+122,retirement plan,0,0,0.4765603
+123,an employer match,0,0,1.2372904
+124,paid holidays,0,0,0.33939087
+125,a vacation plan,0,0,0.980054
+126,sick leave,0,0,0.32039437
+127,a section,0,0,0.40262765
+128,cafeteria plan,0,0,0.9788275
+129,website,0,0,0.23204117
+130,www.lawsonmechanical.com,0,0,0.42920384
+131,projects,0,0,0.4147084
+132,company culture,0,0,0.8594388
+133,lmc,0,0,1.1411839
+134,an equal employment opportunity employer,0,0,0.6322774
+135,associate,0,0,0.31303093
+136,customer-oriented sales,1,0,0.6636428
+137,with ample experience,1,0,0.48685235
+138,position,0,0,0.27452394
+139,service agreement base,0,0,1.3844924
+140,area,0,0,0.16124979
+141,marketplace,0,1,1.1270121
+142,through individual sales,0,0,0.6799277
+143,of new maintenance agreements,0,1,0.6710619
+144,in coordination,0,0,0.5456606
+145,manager,0,0,0.9463682
+146,for growth,0,0,0.6640185
+147,with intention,0,0,0.55938995
+148,from problems,0,0,0.47278938
+149,by service operations,0,1,1.1091659
+150,with new customers,0,0,0.4043771
+151,for service agreements,0,1,0.96151423
+152,controls,0,0,0.5413134
+153,upgrades,0,0,0.40704352
+154,and/or necessary authorization,0,0,0.87574774
+155,on site safety risks,0,0,0.5353093
+156,in sales,0,0,0.23519915
+157,meetings,0,0,0.3119962
+158,of competitors,0,0,0.5569073
+159,branch,0,0,0.71682787
+160,eye,0,0,0.17640057
+161,for accuracy,0,0,0.4995675
+162,quotas,0,0,0.23059368
+163,in-depth knowledge,1,0,0.39840344
+164,of hvac,0,0,0.43149167
+165,with various software programs,0,1,0.52317643
+166,as word,0,0,0.23403926
+167,plus,0,0,0.17046158
+168,fast-changing environment,0,0,0.77114844
+169,of patience,0,0,0.4343042
+170,valid driver,0,0,0.8091138
+171,s license,0,0,0.9632572
+172,division,0,0,0.35028124
+173,post-high school education,0,0,0.7421314
+174,from college,0,0,0.75460005
+175,equivalent combination,0,0,0.8516224
+176,of education,0,0,0.745625
+177,in addition,0,0,0.5465037
+178,competitive salary,0,0,1.0295153
+179,employer match,0,0,0.91173387
+180,with paid holidays,0,0,0.94400513
+181,vacation plan,0,0,0.8556045
+182,section,0,0,0.39507243
+183,at www.lawsonmechanical.com,0,0,0.37545016
+184,equal employment opportunity employer,0,0,0.63564765
+185,is,0,0,0.17054726
+186,selling maintenance agreements,1,0,1.2311736
+187,meeting business development goals,1,0,0.8382965
+188,growing,0,0,0.32288367
+189,be,0,0,0.20116302
+190,expected,0,0,0.2749341
+191,anticipate,0,0,0.43296534
+192,dedicated,1,1,0.3341565
+193,set goals,0,0,0.2611512
+194,develop,0,0,0.8075424
+195,achieve objectives,0,0,0.8519425
+196,identifying service agreement opportunities,1,1,0.9343569
+197,surveying prospects,0,0,0.9760127
+198,generating service agreement proposals,1,1,1.2672019
+199,make,0,0,0.3291996
+200,existing,0,0,0.6221482
+201,converting,0,0,0.7070301
+202,service agreement customers,0,0,1.3844924
+203,resulting,0,0,0.7113208
+204,identified,0,0,0.25882986
+205,identify needs,0,0,0.46788868
+206,directed,0,0,0.28578523
+207,write proposals,0,0,0.77022386
+208,proceed,0,0,0.28151906
+209,evaluate,0,0,0.42951387
+210,adjust scope,0,0,0.9881112
+211,participate,0,0,0.34920028
+212,maintaining awareness,1,1,1.295998
+213,ensure,0,0,0.40510115
+214,have,0,0,0.21149841
+215,been,0,0,0.17899103
+216,sold,0,0,1.1741159
+217,are,0,0,0.1792355
+218,transitioned,0,0,0.33824977
+219,required ability/skill,0,0,0.6028466
+220,required,0,0,0.31163695
+221,achieve,0,0,0.4364023
+222,detail,1,1,0.23591124
+223,meet sales quotas,0,0,0.8286023
+224,performing,0,0,0.63360393
+225,conflicting demands,0,0,0.7579709
+226,managing priorities,0,0,0.787965
+227,exhibit,0,0,0.33966902
+228,has,0,0,0.28597733
+229,read,0,0,0.18621585
+230,interpret,0,0,0.41584843
+231,utilize training manuals,0,0,0.9741298
+232,control circuits,0,0,1.1449964
+233,related,0,0,0.2227111
+234,work,0,0,0.20793737
+235,adapt,0,0,0.6928068
+236,learn,0,0,0.19296205
+237,grow,0,0,0.20711835
+238,hvac sales,0,1,0.8107946
+239,am,0,0,0.19549562
+240,apply,0,0,0.21849833
+241,includes,0,0,0.3173285
+242,offer,0,0,0.23476264
+243,please,0,0,0.17945606
+244,visit,0,0,0.20782544
+245,find,0,0,0.22927098
+246,"service agreements , repairs , equipment",1,1,1.3844924
+247,"communication , problem solving ,",1,0,0.6635461
+248,"word , excel ,",1,0,0.38044402

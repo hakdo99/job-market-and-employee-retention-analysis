@@ -1,0 +1,39 @@
+{% extends "layout.html" %}
+{% block selected %}
+active
+{% endblock %}
+{% block content %}
+    <div class="container">
+		<div class="bd-example">
+			<form method="POST">
+			<table class="table table-striped" id="employee-record">
+				<thead>
+				<tr>
+				  <th scope="col">#</th>
+				  <th scope="col">Employee Name</th>
+				  <th scope="col">Department</th>
+				  <th scope="col">Job Role</th>
+				  <th scope="col">Job Involvement</th>
+				  <th scope="col">Job Satisfaction</th>
+				</tr>
+				</thead>
+				<tbody>
+				{% for employee in employees %}
+				<tr>
+					<th scope="row">{{loop.index}}</th>
+					<td>{{employee.name}}</td>
+					<td>{{employee.Department}}</td>
+					<td>{{employee.JobRole}}</td>
+					<td>{{employee.JobInvolvement}}</td>
+					<td>{{employee.JobSatisfaction}}</td>
+					<td><input class="form-check-input" type="checkbox" name="index" value="{{loop.index}}" id="employee{{loop.index}}"></td>
+				</tr>
+				{% endfor %}				
+				</tbody>
+			</table>
+			<button id="employee-form-submit" type="submit" class="btn btn-primary">Submit</button>
+			</form>
+			<p id="out"></p>
+    </div>
+	<script src="/static/js/TableSelect.js"></script>
+{% endblock %}

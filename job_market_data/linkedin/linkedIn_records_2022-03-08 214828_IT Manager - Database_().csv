@@ -1,0 +1,2533 @@
+,id,job_title,job_type,job_exp,company,industries,location,description,source,search_kw,expected_salary,post_date,job_function,remote
+0,2954962054,"Lead, DevOps (Technology & Infrastructure)",Contract,Associate,CBC/Radio-Canada,"IT Services and IT Consulting, Marketing Services, and Software Development","Toronto, ON","
+
+
+Work at CBC/Radio-Canada 
+
+
+
+ Behind the scenes, but ahead of the curve: help us develop the next-generation public broadcaster. 
+
+
+Created in 2021 to align, lighten and modernize infrastructure, Technology &amp; Infrastructure is the backbone and the future-forward arm of CBC/Radio-Canada. We are the people that make stuff work. We make connections; between media content, systems, people and places. We are the space in between.
+
+A place with purpose. CBC/Radio-Canada has always been a highly-regarded pioneer of media technology. Not just in Canada, but around the world. Today, we’re transforming ourselves from conventional radio and television broadcasters into a modern digital media company. Technology is the driving force. T&amp;I is the team making it happen.
+
+
+ The opportunity 
+
+
+Reporting to the Senior Manager, Web and Infrastructure, we're looking for a Lead, DevOps to join our growing team.. It’s an opportunity to help shape the way the corporation works internally and make a contribution towards our “Space for us all” strategic plan. As a part of the production solutions team, you will install, monitor and manage critical systems that span multiple platforms across the country.
+
+This is a contract position.
+
+
+
+Who Are You And Where Are You Now
+
+
+
+You are a DevOps managing the largest news site in Canada and you want to step up to the challenges of working with bigger systems, bigger infrastructure, and bigger demands. Or, you are escaping the old way to work and getting ready to learn new tools, work with exciting digital product teams and be part of a public broadcaster.
+
+
+ What’s in it for you? 
+
+
+
+
+Skills
+
+
+
+In this role, you will continuously be challenged to apply your judgment, knowledge, experience and analytical skills to
+
+Challenges. We spend our days solving problems on an unbelievable scale. Media files are highly nuanced and incredibly complicated; moving our broadcasting content from on-prem servers to the cloud is a complex technical feat. And that’s just the beginning.
+
+
+ Enhance application functionality. You will plan, coordinate, implement, manage system configuration for new installations or upgrades. 
+
+ Support. You will be responsible for initiating, planning and coordinating the effective client support for the system. 
+
+ Maintain. You will troubleshoot problems and coordinate activities to support the administration of systems. 
+
+ Oversee operational procedures. You will assist in the development and implementation of standards for running new computer system processes and procedures. 
+
+
+Be part of the change. Right now we are looking for people who can execute our strategy. Innovators who want to be respected by their international broadcasting peers for pushing future-forward thinking. Builders who want to be hands-on, who take pride in knowing they are building the next generation of media technology for Canadians.
+
+Cutting-edge tech. CBC/Radio-Canada has a leading-edge tech environment where the team has access to the latest tools and training. This is a rare opportunity to work on a national scale where knowledge acquisition and sharing is part of our culture. It is a versatile, varied and complex infrastructure where you will work with audio, video, French and English languages, corporate infrastructure and internet networking all built into a single ecosystem.
+
+
+ Why join us? 
+
+
+CBC/Radio-Canada reflects the Canadian identity and promotes democracy. We strive to represent the diverse voices and regions of the country. We support social and economic innovation. We offer a rare-in-tech work-life balance with an excellent benefits package and a pension plan noted as one of the best in the country; we want to ensure you are happy in and out of the office.
+
+We are a dynamic, in-flux team brimming with potential. We are more than 4 years old and learning to be a new organization within CBC. We want to be a language-independent technology team. There’s a lot of exciting work ahead of us and while we aren’t there yet, we have a plan. We’re a large corporation so sometimes there is red tape; we are looking for people to understand the process and suggest improvements. We’re also a funded organization, which enables us to take actions that contribute to fulfilling our mandate to exceed audience expectations. We weigh our options, research and explore. We take our time evaluating plans when it comes to replacing systems or building critical infrastructure. When those decisions are made, we follow through with purpose. We don’t have one static future ahead of us, but a dynamic, fluid set of options. This means a chance to be part of that change whether you are an idea generator or an executor.
+
+
+ Why do you want this role? 
+
+
+
+
+You Want To
+
+
+
+
+ Build and implement automation, deployment and testing tools in major clouds 
+
+ Monitor and check solutions in all environments. 
+
+ Automate monitoring and alerting of metrics. 
+
+ Scale infrastructure without downtime. 
+
+ Contribute to the design and deployment of hybrid platforms. 
+
+ Create a safe platform for the development team to launch code. 
+
+ Work effectively within an ‘always up, always available environment, keeping up-to-date with best practices and the latest tools and technologies. 
+
+ Actively provide support to internal and external stakeholders and collaborate with vendors 
+
+ Acting as a consultant in order to problem solve a variety of issues 
+
+ Managed to reduce bandwidth costs while maintaining performance and capacity 
+
+ Overseeing infrastructure usage &amp; load during major events such as the Federal Elections, Olympics etc. 
+
+
+
+
+What You Bring
+
+
+
+A familiarity with Agile practices. You thrive in a fast-paced and Agile Kanban environment. You can participate in bi-weekly sprints and weekly retrospective, planning and backlog grooming meetings.
+
+A growth mindset. You have the ability to think big, keep up to date on emerging trends and industry best practices. You are open to feedback and on a personal mission to pursue new learnings at every opportunity. You can learn new technologies easily and are passionate about the DevOps culture.
+
+A delivery focus. You have a proven track record managing competing priorities while maintaining an ability to execute on time, beyond expectations.
+
+An innovative team approach. You are a team player with a positive attitude punctuated by high energy, initiative and perseverance. You can effectively build working relationships, be accountable and coordinate resources with cross-functional teams.
+
+High-quality skills in scripting code &amp; comprehensive infrastructure knowledge. A key contributor to process optimization &amp; workflow design.
+
+The strategic approach. You are highly aware of the importance of simplicity and scalability. You have the patience to consider all options before jumping into a decision. You are motivated by building robust, reliable processes and solutions that are replicable. You can balance multiple projects simultaneously and execute decisions independently.
+
+The relationship building finesse. You can nurture strong two-way relationships with peers, partners, clients, staff, senior managers, and external technological vendors. You have outstanding communication skills. You are comfortable presenting technical concepts and solutions to a nontechnical audience. You know how to listen and you understand perspectives.
+
+The flexibility. You are able and willing to work outside of regular working hours. You can travel between Montreal and Toronto when required.
+
+
+
+We Are Looking For a Candidate With The Following
+
+
+
+
+ Technical background and expertise. You have a Bachelor’s degree in Computer Science or Engineering or 5+ years working with high availability systems. You have hands-on expertise with: 
+
+
+
+ One or more years of working experience on AWS Cloud technology and an understanding of the strengths and weaknesses 
+
+ You have deployed via Terraform and Ansible an infrastructure in AWS. 
+
+ You have worked with automation and deployment tools such as Ansible, Terraform, Jenkins, Jira and Bamboo or similar 
+
+ Linux RHEL, CentOS, Ubuntu 
+
+ Experience building and deploying containers to the major platforms such as Kubernetes, OpenShift, GKE just to mention a few. 
+
+ Python, Bash, Shell, Powershell or similar 
+
+ Manage, tuning and improving JBoss or Tomcat applications, would be considered as an asset. 
+
+ Apache Solr knowledge would be considered an asset. 
+
+ Database server technologies such as Postgres, Cassandra, RDS, Aurora are considered an asset 
+
+ Skilled in threat identification &amp; vulnerability assessment. Integrating security practices into DevOps processes. Working closely with InfoSec (Information Security) to test security features, identify risks &amp; mitigate them; would be considered an asset 
+
+ English Fluent (Writing, Speaking and Reading) 
+
+ French work knowledge (Writing, Speaking and Reading) is an asset 
+
+
+Candidates may be subject to skills and knowledge testing.
+
+All employees of CBC/Radio-Canada are required to be fully vaccinated against COVID-19 as of 
+December 1st 2021
+ unless exempted based on a medical/religious ground. As per this requirement, employees must attest to their vaccination status. The requirement for employees to be fully vaccinated applies whether they are teleworking, working remotely or working on-site. This is a condition of employment and it applies to all employees. Should you reach the point in the selection process where it is necessary to verify if you meet the conditions of employment, you will be asked to provide an attestation confirming your COVID-19 vaccination status.
+
+
+
+To Apply
+
+
+
+Think this job is meant for you but worried you don’t have it all? At CBC/Radio-Canada we know that not everyone takes the same path when it comes to building their skills. Hands-on experience, intelligence, innovation, a passion for learning and a team-focused approach can combine to form the best set of qualifications. If you feel you meet 70% of the requirements we are seeking and you are excited by the possibility of growing our company, take a chance and express your interest!
+
+CBC/Radio-Canada is committed to being a leader in reflecting our country’s diversity. That’s because we can only create and tell the stories that connect Canadians, by having a workforce that mirrors the ever-changing makeup of our country. That’s why we, as an employer, value equal opportunity and nurture an inclusive workplace where our individual differences are not only recognized and valued, but also extend to and pervade all the services we provide as Canada’s public broadcaster. For more information, visit the Diversity and Inclusion section of our website. If you have accommodation needs at this stage of the recruitment process, please inform us as soon as possible by sending an e-mail to recruitment@cbc.ca.
+
+You are invited to consult and familiarize yourself with our Code of Conduct, which can be found on our corporate website . All employees must adhere to the Code as a condition of employment. We also invite you to take a look at our policy on conflicts of interest . In the event that you become an employee, it will be important to inform us, as quickly as possible, of any situation that, because of your hiring, constitutes or could appear to constitute a conflict of interest.
+
+
+Job Family
+
+
+Technical and Production
+
+
+Primary Location
+
+
+Toronto
+
+
+Position Language Requirement
+
+
+English Only
+
+
+Language Skill Level (Reading)
+
+
+
+Language Skill Level (Writing)
+
+
+
+Language Skill Level (Speaking)
+
+
+
+Status of Employment
+
+
+Contract
+
+
+Work schedule(s)
+
+
+Full-time
+
+
+Job Posting Date
+
+
+Mar 7, 2022, 2:03:52 PM
+
+
+Unposting Date
+
+
+Mar 21, 2022, 10:59:00 PM
+      
+",Linkedin,IT Manager - Database,,2022-03-08 10:42:53,Management and Manufacturing,
+1,2919017758,Software Development Manager,Full-time,Mid-Senior level,Amazon,"IT Services and IT Consulting, Software Development, and Internet Publishing","Toronto, ON","
+
+
+
+Description
+
+
+
+Amazon Redshift is a fast, scalable data warehouse that makes it simple and cost-effective for our customers to analyze data across their data warehouse and data lakes. Redshift delivers ten times faster performance than other data warehouses by using machine learning, massively parallel query execution, and columnar storage on high-performance disk.
+
+As the Manager of Software Development for Redshift, you will be responsible for leading a group of top talent in the design and development of a product that allows for running queries across petabytes of data stored in data warehouses. Have a look at how we built Redshift ML to democratize model generation along with capability to run predictions within Redshift Cluster. See how we gave customers the ability to elastically and automatically add compute resources using Concurrency Scaling. These techniques and many others show how we build and innovate to give our customers industry leading price-performance for their workloads.
+
+Joining the Amazon Redshift team gives you the opportunity to:
+
+
+ Work on a disruptive product that’s still in its early stages
+
+ Solve challenging problems that will revolutionize database computing in the cloud
+
+ Build a product that will leverage the scale of resources available in the cloud
+
+ Work for a company that’s a recognized leader in the cloud computing space
+
+ Be involved in the fast growing, big data space
+
+
+
+
+Responsibilities Include
+
+
+
+
+ Growing and leading a data warehouse software development team responsible for rethinking the assumptions behind how traditional DW services are built and thinking how to build database services best suited for the cloud.
+
+ You will lead the design, implementation, testing and deployment of these services.
+
+ You will draw from your deep and broad technical and management expertise to mentor senior engineers, complete hands-on technical work and provide leadership on complex technical issues, design tradeoffs, and feature and schedule prioritization.
+
+ As an engineering leader within Database Services, you will work with senior executives to develop business targets and resource requirements, influence our technical and business strategy, help hire talented engineers and managers, and conceive innovative new solutions for our customers
+
+ You will work on distributed services, high availability and scalability features, integration with other AWS services and making Redshift most reliable and scalable data warehouse in the world.
+
+
+Inclusive Team Culture
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences.
+
+Work/Life Balance
+
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives.
+
+Mentorship &amp; Career Growth
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+
+
+
+Basic Qualifications
+
+
+
+
+BASIC QUALIFICATIONS
+
+
+
+ Bachelor’s degree in Computer Science, Computer Engineering or related technical discipline
+
+ 7+ years of experience as a software engineer
+
+ 3+ years of experience managing people
+
+
+
+
+
+Preferred Qualifications
+
+
+
+
+PREFERRED QUALIFICATIONS
+
+
+
+ Strong knowledge of database internals along with algorithm design.
+
+ Experience managing complex software development that have been successfully delivered to customers.
+
+ Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs.
+
+
+Amazon is committed to providing accommodations at all stages through recruitment and employment in accordance with applicable human rights and accommodation legislation. If contacted for an employment opportunity, please advise Human Resources if you require accommodation, including in order to apply for a position.
+
+
+
+Company
+ - Amazon Dev Centre Canada ULC
+
+Job ID: A1537349
+      
+",Linkedin,IT Manager - Database,,2022-03-08 11:56:03,"Information Technology, Consulting, and Engineering",
+2,2955901673,Technical Business Systems Analyst,Full-time,Not Applicable,Nova Scotia Power,Utilities,"Halifax, NS","
+
+
+Reference Number: 
+ 9564
+
+
+ Department: 
+ Information Technology
+
+
+ Location: 
+ Halifax, NS 
+Type of Employment: 
+ Reg, FT
+
+Nova Scotia Power’s greatest source of energy is our people. In a culture focused on safety, we’re committed to providing exceptional service to our customers and rewarding jobs to our employees. We’re hiring solution-minded people excited to help us grow into the future. We are currently seeking a 
+Technical Business Systems Analyst 
+to join our ERP Application Support Team in a full-time permanent position.
+
+
+
+Accountabilities
+
+
+
+Under the direction of the Manager, ERP IT Systems, the Intermediate Technical Business Systems Analyst is accountable for supporting, maintaining, and evolving enterprise level computer systems to meet established customer service levels and maintain IT Operations best practices.
+
+
+
+Responsibilities
+
+
+
+The position is responsible for day to day application support of our Oracle Business Intelligence application including the ability to
+
+The Intermediate Technical Business Systems Analyst needs to have the technical ability to support our ERP applications and bring an understanding of application related business processes.
+
+
+ Troubleshoot and resolve application incidents following standard Incident Management procedures; 
+
+ Assess, prioritize, and complete application requests in a timely and quality manner following standard Request Management procedures; 
+
+ Manage application support issues, requests, and associated customer communications proactively to completion using standard tracking tools; 
+
+ Manage and execute application changes using standard Change Management methodologies; 
+
+ Perform proactive application error and health monitoring; 
+
+ Support and enforce corporate application security policies and procedures; 
+
+ Perform audit controls and reporting related to application access and usage; 
+
+ Effectively self–manage and re-prioritize work to balance resolution of incidents, request fulfillment, and project work to ensure highest priority issues are addressed and deadlines are met; 
+
+ Interact with vendors to resolve application incidents and problems, and research information; 
+
+ Work collaboratively and maintain relationships with business partners, system users, peers, and vendors; 
+
+ Satisfy customer reporting requests through customer education of system functionality or development and execution of reporting, as appropriate; 
+
+ Answer customer questions regarding application usage; 
+
+ Provide after-hours support by participating in an on-call rotation with the ERP technical support team; 
+
+ Complete application system administration requests in a timely and quality manner; 
+
+ Recognize and identify potential areas where existing business policies and procedures require change, or where new ones need to be developed, and make recommendations; 
+
+ Ensure effective use of application security and controls by communicating application policies, procedures, and practices to the application users. 
+
+ Translating business, stakeholder/user requirements to technical specifications. 
+
+ Designing, building and deploying OBIEE Dashboards and reports which includes development, execution of database queries and analysis creation. 
+
+ Participating in data warehouse design for all requests or projects in the BI team and provide business inputs on the source systems (EBS, PeopleSoft, PowerPlan) 
+
+ Developing and updating technical and deployment documentation. 
+
+ Developing Unit tests, validating and troubleshooting in all environments and coordinating the UAT testing for Standard changes. 
+
+ Troubleshooting any data issues by capturing physical queries and analysing the root cause in the areas of Dashboard Reports, Repository, ETL and analyzing the source database systems. 
+
+ End-to-end understanding of the BI application user roles and security controls including all license information. 
+
+
+You will be responsible for your personal safety and that of co-workers by observing all Occupational Health and Safety Rules and Regulations.
+
+
+
+Skills, Capabilities And Experience
+
+
+
+The successful candidate will have a University degree or diploma in a computer related discipline and a minimum of two (2) years’ experience in technical client facing support roles with Oracle ERP Systems. An understanding and experience utilizing best practice information technology incident and request management processes is essential.
+
+
+
+The Ideal Candidate Will Have
+
+
+
+
+ Sound Oracle Business Intelligence support experience 
+
+ Understanding of ERP Applications/Solutions like Peoplesoft and EBS 
+
+ Strong SQL skills; 
+
+ ETL Development 
+
+ Solid analytical and problem-solving skills; 
+
+ Strong report development skills – specifically the ability to effectively confirm requirements, understand data models and build accurate and effective queries and reports; 
+
+ Excellent interpersonal and communications skills: the ability to communicate with end users to determine details of issues being experienced, and to clearly define request requirements; 
+
+ Ability to understand and bring experience utilizing information technology incident and request management processes and systems. 
+
+
+
+
+The Following Would Be An Asset
+
+
+
+
+ ITIL Foundations training; 
+
+ Experience performing proactive IT audit controls; 
+
+ Working knowledge and experience with access security and controls; 
+
+ Experience satisfying internal and external audit requests for information and evidence; 
+
+ Understanding of accounting and financial concepts in relation to business processes; 
+
+ Experience with PowerPlan, GitHub and Tableau. 
+
+
+
+ Reports to 
+ : Manager, ERP IT Systems
+
+
+ Form of Application: 
+ Click the APPLY button at the end of the online job posting. Complete all required information fields, and copy and paste your covering letter and resume into the online form.
+
+
+ Salary: 
+ To commensurate with qualifications and experience.
+
+
+ Must Be Received By: 
+ All interested candidates should apply no later than
+ March 22 nd 2022. 
+
+
+Late applications may not receive consideration.
+
+
+ Recruitment and Promotion Policy: 
+ When filling vacant positions, we are determined to hire the best candidates available. We are committed to providing employees with a fair and equal opportunity to compete for jobs. Hiring and promotion of employees is based on skills, capabilities, knowledge and demonstrated abilities.
+
+In accordance with Emera’s occupational health and safety program and the Emera Vaccine Program, subject to any approved accommodation, all employees are required to be fully vaccinated against COVID-19. For clarity, “fully vaccinated” means 14 days since having the number of doses or combination of doses of a vaccine approved by Health Canada or local public health agencies in the jurisdiction in which they will be employed.
+
+At Emera we value diversity, equity, and inclusion. We strongly encourage applications from all qualified candidates, including persons who identify as racially visible, Indigenous, persons with disabilities, women in underrepresented roles and members of the LGBTQ+ community. Applicants from these equity groups may self-identify through the on-line application process. Emera supports candidates and employees with access and accommodation needs.
+
+If you are selected for an interview and require a specific accommodation, please advise our Talent Acquisition team and we will support you with the recruitment process.
+
+Share
+      
+",Linkedin,IT Manager - Database,,2022-03-09 04:45:43,Information Technology,
+3,2959243163,"Senior Leader, ProServe Customer Segment Leader, AWS ProServe Canada",Full-time,Mid-Senior level,Amazon Web Services (AWS),"IT Services and IT Consulting, Software Development, and Internet Publishing","Toronto, ON","
+
+
+
+Job Summary
+
+
+
+
+DESCRIPTION
+
+
+ProServe Canada is seeking an experienced professional services executive, a senior leader of leaders to help take the AWS business in our market to the next level of hypergrowth. This leader will serve as part of the Americas AWS sales management team, and contribute at the Americas practice level to design and drive the cloud-based IT professional services delivery model of the future.
+
+This position focuses on developing the Canadian market across the existing areas of West, Central, and East. Functional domains include sales, delivery, operational, and market responsibilities across Specialized Sales &amp; Architecture, Industry, Strategic Deal Pursuit, and Portfolio Management.
+
+
+
+Responsibilities Include
+
+
+
+This leader will be responsible for authoring the strategy and business plan, engaging and partnering with customers, and building and leading a team of Senior Practice Managers, Principal Enterprise Architects, Specialized Architects, Go-to-Market Leads, Industry Specialists, and Portfolio Managers. This role will be responsible for all consulting services sales and delivery with customers in Canada directly and with AWS partners. Additionally, this individual will be a thought leader and executive advisor, who is visible in the cloud industry on relevant topics related to cloud infrastructure and digital transformation.
+
+
+ Engage customers - collaborate with enterprise sales managers to develop strong customer and partner relationships. Develop trusted relationships with customer CIOs, CTOs, IT functional leaders and business sponsor executives. Lead the sales of ProServe engagements and build a growing business in a geographic territory, driving AWS adoption.
+
+ Sell IT transformation engagements - present compelling proposals to help customers develop a modern cloud-based IT operating model to drive new business results. This includes short on-site projects proving the value of AWS services as well as full enterprise level transformations across thousands of applications migrating quickly to the AWS cloud.
+
+ Partner ecosystem - establish executive and technical relationships with key integrators (SIs), software vendors (ISVs) and managed services providers (MSPs) who are offering cloud-based IT services and solutions. Deliver joint proposals and joint engagements to help partners succeed in large, complex customer engagements using AWS.
+
+ Coach and teach - collaborate with AWS field sales, technical sales, training and support teams to help partners and customers learn and use AWS platform services such as Amazon Elastic Compute Cloud (EC2), Amazon Simple Storage Service (S3), Amazon RDS database services, AWS Identity and Access Management (IAM), etc.
+
+ Deliver value - oversee the high-quality delivery of a variety of customized engagements with partners and enterprise customers in the commercial sector.
+
+ Lead and scale great teams - attract and develop top IT architecture talent to build high performing teams of consultants with superior technical depth, and outstanding customer relationship skills. Lead and support a regional management team of practice managers who cover major metropolitan business centers and cultivate a culture of diversity, equity and inclusion.
+
+ Be a customer advocate - Work with AWS engineering teams to convey partner and enterprise customer feedback as input to AWS technology roadmaps. Influence roadmap changes to accelerate customer adoption and value.
+
+
+THE CANDIDATE
+
+The ideal candidate will have proven success building and leading an IT consulting practice at scale for a top tier IT platform provider or consultancy. S/he will have led a portfolio of enterprise customers through a variety of projects involving IT strategy, distributed architecture implementation, and hybrid cloud operations. They will have led world-class teams that drive breakthrough business results using cutting edge technologies, and they will have experiencing developing a partner ecosystem to serve customers and drive adoption of new IT platforms.
+
+
+
+Leadership Capabilities
+
+
+
+
+ Customer obsession: Strong relationship building skills and relentless focus on what it takes to make customers successful.
+
+ Deliver Results: Focuses on customer business outcomes and increasing platform production usage.
+
+ Insist on the Highest Standards: Drives quality in all aspects of execution - projects, people, platform, programs, and partners.
+
+ Earn Trust: Develops trust with internal and external partnerships and all roles and levels within customers.
+
+ Hire and develop the best: Outstanding people leadership skills with the ability to attract senior industry and technical consulting leaders to build and scale teams and/or businesses.
+
+ Think big: Innovative thinker capable of designing accelerators to build and grow a global business. Must also be able to partner with CxOs and articulate to customers and partners a business-minded, “Think Big” value proposition.
+
+
+
+
+Ideal Experience
+
+
+
+
+ Previous consulting/IT advisory services experience.
+
+ Highly technical and analytical, with the credibility to sell complex transformational IT consulting engagements and implementation experience with Fortune 500 customers.
+
+ Outstanding customer relationship management, executive presence, sales acumen, delivery experience and collaboration skills
+
+ Consulting practice leadership as manager of managers; led cross-functional project teams on large, high profile and complex pre-sales and delivery engagements.
+
+ P&amp;L responsibility and developing critical competency scale with related operational market, people, and customer growth targets, KPIs, and OKRs.
+
+ Demonstrated ability to work in ambiguity and scale systems, processes, and teams across multiple lines of businesses and customers.
+
+ Previous experience in an organization that has built and/or sold products/platforms.
+
+ Track record of leading technical teams and ability to distill technical information to technical or non-technical customers.
+
+
+
+
+
+Basic Qualifications
+
+
+
+
+ BA/BS degree or equivalent experience; Computer Engineering, Computer Science or Math background preferred.
+
+ 15+ years of enterprise IT consulting and delivery experience with global Fortune 500 companies.
+
+ 5+ years of experience leading professional services delivery teams in the areas of IT service management, cloud computing, or IT Strategy.
+
+ Building and leading teams at a global level
+
+
+
+
+Preferred Qualifications
+
+
+
+
+ Previous consulting/IT advisory services experience.
+
+ Highly technical and analytical, with the credibility to sell complex transformational IT consulting engagements and implementation experience with Fortune 500 customers.
+
+ Outstanding customer relationship management, executive presence, sales acumen, delivery experience and collaboration skills
+
+ Consulting practice leadership as manager of managers; led cross-functional project teams on large, high profile and complex pre-sales and delivery engagements.
+
+ P&amp;L responsibility and developing critical competency scale with related operational market, people, and customer growth targets, KPIs, and OKRs.
+
+ Demonstrated ability to work in ambiguity and scale systems, processes, and teams across multiple lines of businesses and customers.
+
+ Previous experience in an organization that has built and/or sold products/platforms.
+
+ Track record of leading technical teams and ability to distill technical information to technical or non-technical customers.
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+
+
+
+Company
+ - Amazon Web Services Canada, In
+
+Job ID: A1971277
+      
+",Linkedin,IT Manager - Database,,2022-03-08 10:51:09,"Sales, Advertising, and Business Development",
+4,2958797716,"Manager, Audit Services IT (FT, Perm) (BCLC)",Full-time,Mid-Senior level,BCjobs.ca,"Motor Vehicle Manufacturing, Staffing and Recruiting, and Truck Transportation","Vancouver, BC","
+
+        Manager, Audit Services IT (FT, Perm)
+
+Location: Vancouver, BC, CA
+
+Job Function: Finance Corporate Services and Internal Audit
+
+At BCLC, we play fair. We believe that playing fairly is a serious responsibility and an empowering opportunity. Our commitment to social, economic and environmental responsibility is central to all we do and captured in our slogan ""Playing it Right"". From our LEED Metro Vancouver office, to our responsible gambling program, GameSense, we are committed to ensuring that we always consider the impact of our business on the people and communities of BC. At BCLC, we play for BC. We employ-directly and indirectly-almost 26,000 people in gambling operations, related government agencies and charities as well as support services.
+
+At BCLC, we make it fun to be an adult. For more than 30 years, we've entertained customers with a chance to dream and have fun, while delivering revenue to the Government of BC for the benefit of British Columbians. During this time, we've evolved from a lottery corporation to a full-spectrum gambling entertainment company responsible for conducting, managing and operating lottery, casino, community gaming (bingo) and eGaming in BC. We strive to create outstanding gambling experiences and to have our games evolve with the player's idea of excitement. For us, playing is not all about winning; it's about entertainment.
+
+
+
+Job Summary
+
+
+
+The Manager, Audit Services IT is accountable for the effective planning and execution of IT audits of varying complexity and ensuring IT audit activities are consistent with and supportive of the overall IT audit strategy and framework. The role will also provide input and guidance on organizational IT risks and assist in developing/completing the annual IT audit plan. The Manager works closely with management in all areas of the organization by assessing IT risks, completing independent/objective evaluations of IT risks and processes, and recommending improvements to associated IT controls and processes.
+
+
+
+Key Accountabilities
+
+
+
+
+Focus is on planning and managing the execution of IT audit engagements.
+
+Conducts risk assessments of IT risks and controls.
+
+Participates in the design and development of the overall corporate audit strategy, framework and policy, and help develop a comprehensive IT audit program and annual audit plan. 
+
+Ensures IT audit governance activities are consistent with and supportive of the overall audit strategy and framework.
+
+Manages multiple IT engagements concurrently.
+
+Proactively develops, maintains and manages high profile relationships with various internal contacts. Work in coordinative and collaborative manner to increase overall IT governance including liaising with the IT department to ensure key IT risk areas and on-going issues have been identified.
+
+Assists in identifying key IT risk areas across the corporation that are in accordance with established risk governance framework.
+
+Prepares draft IT risk governance frameworks for review by the Director, Audit Services.
+
+Sets goals and evaluates the performance of direct reports through formal performance management processes and identifies/addresses development needs as required.
+
+Models leadership behaviours that support staff engagement (recognition, inspiring a shared vision, regular staff communication, coaching/mentoring, conducting performance management, and supporting corporate change initiatives.
+
+ 
+Minimum Required Qualifications:
+
+Education and Experience
+
+
+
+Post-secondary education in Information Technology and/or Business or a related discipline;
+
+Certified Information Systems Auditor (CISA) designation would be an asset;
+
+Certified Internal Auditor designation would be an asset;
+
+5-7 years of recent, IT audit related experience; including experience in a leadership capacity; 
+
+An equivalent combination of education and experience may be considered.
+
+ 
+Technical Requirements:
+
+
+
+Extensive knowledge of IT control systems, infrastructures, processes, operations and risk management frameworks;
+
+In depth knowledge of IT auditing methodologies and tools including risk assessments, controls and governance;
+
+Working knowledge of one or more operating systems or database technologies (i.e., Unix/Linux, Windows, Oracle, SQL Server);
+
+Knowledge of COBIT, COSO, ISO and other IT audit and security frameworks;
+
+Knowledge of the gaming and/or eGaming industry would be an asset;
+
+Strong technical proficiency in areas such as information security governance, access administration, vulnerability management and threat management would be an asset
+
+Excellent communication skills including the ability to translate and communicate complicated technical issues to both technical and non-technical audiences;
+
+Strong IT strategic thinking skills - ability to find innovative, yet practical, strategies to achieve goals, link several strategies into a unified plan, while anticipating needs and maintaining a future focus;
+
+Ability to respond to a high volume of work with multiple concurrent tasks;
+
+Strong analytical skills including the ability to quickly identify potential issues and risks;
+
+Excellent organizational skills and attention to detail;
+
+Systemic/holistic approach to problem solving;
+
+Demonstrated experience in strategic business planning. 
+
+ 
+Additional Information:
+
+
+
+Effective November 22, 2021, BCLC requires all employees to be fully vaccinated (as defined by Health Canada). Full vaccination will be required before commencing employment with BCLC unless a legal exemption is obtained.
+
+To build a rich diverse workforce representing the communities which we serve, we welcome applications from people of all colours and cultures, persons with diverse abilities, and members of the LGBTQ2S+ community.
+
+BCLC values work life balance and offers remote work options for its employees.
+
+Relocation assistance is available for successful job candidates.
+
+If you are in need of accommodation or special assistance at any step of your application, please send an email with your request to recruitment@bclc.com.
+
+For over more than a decade, we have been recognized as one of BC's Top Employers - and we are constantly seeking ways to improve our employee and player experience. To learn more about BCLC, please visit: www.corporate.bclc.com
+
+ 
+ Please Note:
+
+This opportunity will remain open until a qualified candidate pool has been established.
+
+Candidates must be legally entitled to work in Canada and be 19 years of age to work at BCLC.
+
+
+Value
+      
+",Linkedin,IT Manager - Database,,2022-03-08 08:27:20,Accounting/Auditing and Finance,
+5,2960180709,System Administrator,Part-time,Mid-Senior level,WELL Health Technologies Corp. (TSX: WELL),Medical Practices,"Toronto, ON","
+
+
+
+Organization: MyHealth Centre
+
+
+
+Position: System Administrator 
+
+
+
+Reporting to: Director, IT 
+
+
+
+
+ 
+Type: Full Time Permanent 
+
+
+
+Location: Toronto, ON
+
+
+
+
+
+
+About MyHealth Centre
+
+
+MyHealth is a part of the WELL Health Technologies Corp. (TSX: WELL) family and is the largest provider multi- specialty ambulatory health service provider. We own and operate 50 clinics across Ontario and provide physician services to 30 third-party clinics and hospitals in the areas of radiology, cardiology, nuclear medicine, internal medicine, physical medicine, and Obstetrics/gynecology. We provided over 2 million health services in FY2020. MyHealth team comprises almost 700 professionals including 140 MDs. The mission of the Company is “Delivering Quality Patient Experience through Innovation, Compassion, and Integrity.” MyHealth is accredited with commendation from Accreditation Canada.
+
+MyHealth started telehealth services over two years ago. However, this division has seen exceptional growth during COVID-19. We are offering telehealth services in family medicine, internal medicine, cardiology, and gynecology. We are aggressively expanding specialties as well as geographic reach. Telehealth is helping transform us into the largest national healthcare service provider.
+
+For more information about us, please visit https://www.myhealthcentre.ca/ or https://www.well.company/.
+
+
+
+
+
+Corporate Recognitions:
+
+
+· Canada’s Most Admired Corporate Cultures™
+
+· Canada’s Best Managed Companies for 3 consecutive years.
+
+· Consumer Choice Award for Best Diagnostic Imaging Clinics in the Greater Toronto Area!
+
+· Great Place to Work for 5 consecutive years.
+
+· Globe and Mail’s Report on Business has selected MyHealth Centre for their 2021 ranking of Canada’s Top Growing Companies.
+
+
+
+
+
+DUTIES AND RESPONSIBILITIES
+
+
+• Implement and maintain corporate Windows Network and Active Directory.
+
+• Maintain and manage corporate’s office 365 based Exchange Server.
+
+• Monitor all systems to ensure high availability and peak performance and performs scheduled and on-demand system capacity and performance updates to address issues, including disk, memory, and CPU changes.
+
+• Configure development servers (both physical and virtual), and provide ongoing support for IT Services through the design, implementation, and testing of all new application, web, and database servers.
+
+• Manage Certificate server and Certificate Services (PKI).
+
+• Patching, Automation and Endpoint Management - SCCM, Intune.
+
+• Responsible for implementing and maintaining appropriate strategies for backup and data protection, disaster recovery as well as failover procedures.
+
+• Support the implementation, testing and deployment of all new applications within the organization.
+
+• Select, implement and maintain any necessary security software, including Anti-Virus, Anti-Malware, etc, across the organization, on servers, and workstations.
+
+• Create, implement, and maintain all Network Security policies and procedures, maintain documentation, and provide training and assistance with these throughout the organization, where necessary.
+
+• Performs periodic and on-demand system audits and vulnerability assessments; including user accounts; application access; file system.
+
+• Patching, Automation and Endpoint Management - SCCM, Intune.
+
+• Responsible for implementing and maintaining appropriate strategies for backup and data protection, disaster recovery as well as failover procedures.
+
+• Incident Management – Responding, tracking, resolving, and performing root cause analysis to prevent reoccurring issues on IT tickets and deliver world-class customer service.
+
+• Analytical skills – a highly analytical role, requiring the interpretation of error logs, monitoring system performance, and ensuring server reliability.
+
+• Perform tasks as assigned by the manager.
+
+
+
+
+
+POSITION QUALIFICATIONS
+
+
+• Bachelor’s Degree in Computer Science from a recognized institution, or an equivalent mix of college education/training in System Administration and Security, required.
+
+• Microsoft Systems Administration certifications, either MCSE or MCSA, required.
+
+• 3 + years work experience in a Windows System Administrator required.
+
+• 2 + years experience as an Administrator or Security Specialist in a healthcare environment preferred.
+
+• Strong hands-on experience with Windows Server environments, Microsoft Identity Manager, Active Directory, GPO, SCCM, BitLocker, Certificates, MFA, required.
+
+• Thorough understanding of LAN/WAN Networks (Routers, Switches, and Firewall) Configuration and cabling.
+
+• 2 + years Administering, securing, and optimizing systems and servers within a Data Centre environment.
+
+• Experience Administering Storage Area Networking (SAN) technologies and best practices.
+
+• Scripting/programming of infrastructure and operations tasks via PowerShell, Power CLI, JavaScript, Python, etc.
+
+• Proven experience with troubleshooting principles, methodologies, and issue resolution techniques.
+
+• Able to develop and interpret technical documentation for training and end-user procedures.
+
+• Highly self-motivated with the ability to effectively prioritize and execute tasks in a high-pressure environment.
+
+• Excellent written and verbal communication skills.
+
+• Strong customer focus with demonstrated interpersonal skills and the ability to maintain effective working relationships with others.
+
+• Valid driver’s license (G License) and own vehicle an asset.
+
+
+
+
+
+PHYSICAL DEMANDS:
+
+
+• This job is located within the Head Office in Toronto at Sheppard and Yonge; however, it will also include extensive travel to our various clinic locations within the GTA, and outside (Sudbury, Sault. Ste. Marie, and London, etc.) – must be prepared to drive to closer locations and be willing to fly, if necessary, to the farther locations.
+
+• Due to the nature of this role, you may be required to work outside of regular business hours and/or be on-call for after-hours and weekend support.
+
+
+
+
+
+Personal:
+
+
+Have a cheerful, positive attitude and the ability to work effectively with others as well as the ability to work independently and treat everyone with respect, dignity, and kindness.
+
+
+
+
+Follow us on LinkedIn: https://ca.linkedin.com/company/myhealth-centre
+
+MyHealth Centre welcomes and encourages applications from people with disabilities. Accommodations are available on request for candidates taking part in all aspects of the selection process.
+
+MyHealth Centre is an equal opportunity employer. If you require accommodation for a disability at any stage of the recruitment process, please notify Human Resources
+
+
+",Linkedin,IT Manager - Database,,2022-03-08 23:10:04,Information Technology,
+6,2959552509,"Senior Business Analyst, Consumer Engagement Services & Social Media, IT",Full-time,Associate,Nestle International,Staffing and Recruiting,"North York, ON","
+
+        NestlÃ© is the world's largest food and beverage company. We have over 2000 brands ranging from global icons to local favourites and are present in 190 countries worldwide. In Canada, excelling means sharing our passion for our purpose of enhancing quality of life and contributing to a healthier future. It also means living up to our exemplary values which are rooted in respect for ourselves, others, diversity, and the future. We will support your personal growth with a people-focused culture and a flexible and diverse working environment. Join our team to support our purpose of enhancing quality of life and contributing to a healthier future.
+
+Position Snapshot
+
+Business areas: NestlÃ© Canada
+
+Job title: Senior Business Analyst, Consumer Engagement Services &amp; Social Media, IT MSE Canada
+
+Location: North York
+
+Position Grade: 15
+
+Position Summary
+
+We are looking for a Senior Business Analyst who will serve as a liaison between business users and IT product teams to sustain and continuously evolve Consumer Engagement Services (CES) &amp; Social Media solutions against business needs. You will report directly to the eBusiness Manager.
+
+A day in the life of a Senior Business Analyst
+
+As a Senior Business Analyst, you will bring deep understanding of CES technology powered by Salesforce Service Cloud (CRM) to issues facing the local Consumer Experience business team and advise on best solutions. You will manage the key pass for business social accounts. And you will translate business needs into CES &amp; Social Media technology opportunities, and influence IT product teams.
+
+
+
+You Will Also
+
+
+
+
+ Understand and translate business needs into IS/IT requirements.
+
+ Champion product adoption and continuous UX optimization in the market.
+
+ Manage the product backlog and champion the development and implementation of product enhancements to alleviate pain points.
+
+ Identify gaps in existing functionalities, options for improvement and opportunities for process automation.
+
+ Influence IT product teams to align technology roadmap to address local business needs.
+
+ Identify security &amp; compliance requirements, including roles, associated with the business processes.
+
+ Assess short-term business needs to understand opportunities and help business establish priorities. Consult with IT product teams and propose alternative solutions. Advise on options, risks, costs versus benefits, and impact on other business processes.
+
+ User of global technology tools related to applicant tracking, candidate database and recruitment tools.
+
+
+What will make you successful
+
+
+
+As The Successful Candidate, You Will Have
+
+
+
+
+ Good level of communication skills, able to adapt communication style for different levels in the organization and for non-technical business stakeholders.
+
+ Technical skills to understand, challenge and improve technologies and solutions; ability to adapt and quickly understand new tools such as Sprinklr, BazaarVoice, and Five9.
+
+ Ability to consistently deliver results.
+
+ Strong customer service track record.
+
+ Demonstrated competency in project participation and execution of multiple large projects.
+
+ Ability to work remotely in a global, multicultural environment, and to operate in a matrix organization.
+
+ Open to new challenges and ways of working.
+
+
+What you need to know
+
+The closing date for applications is March 22, 2022. We will be considering applicants as they apply, so please don't delay in submitting your application.
+
+Please note: Education Verification, Reference Checks and Criminal Background Checks will be administered on suitably qualified candidates.
+
+We thank you for your interest in this opportunity; however only those individuals selected for an interview will be contacted.
+
+NestlÃ© is an equal opportunity employer committed to diversity and inclusion. If you are selected to participate in the recruitment process, please inform Human Resources of any accommodations you may require. NestlÃ© will work with you in an effort to ensure that you are able to fully participate in the process.
+
+#NestlÃ©CAHiring
+      
+",Linkedin,IT Manager - Database,,2022-03-08 16:14:02,"Research, Analyst, and Information Technology",
+7,2955843363,"Head of Customer Support, Trilogy (Remote) - $200,000/year USD",Full-time,Director,Crossover for Work,"IT Services and IT Consulting, Software Development, and Internet Publishing","Toronto, ON","
+
+        Crossover is the world's #1 source of full-time remote jobs. Our clients offer top-tier pay for top-tier talent. We're recruiting this role for our client, Trilogy. Have you got what it takes?
+
+If you’re a hands-on technical support manager looking to create a bigger impact, then we think it’s about time to get yourself out of the middle management trap. You were a top performer as a support agent and have proven yourself an effective manager. Shouldn’t your organization start listening to your ideas?
+
+Unlike most companies, Trilogy depends on highly effective managers like you to drive the changes that lead to better customer outcomes.
+
+Trilogy is on the lookout for customer support veterans who can rely on their deep technical experience and leadership skills to move our cutting-edge support organization forward. Trilogy built a fully remote support system based on customer obsession, a world-class knowledge base, and highly skilled agents capable of servicing over 10,000 customers on over 100 products. We count on our support managers to dive deep into the details and make the improvements that help the system achieve its full potential.
+
+Our service is the #1 reason our customers continue to partner with us year after year, and our support leaders are responsible for making that service first-class. If you’re looking to take charge in a high-stakes environment, then we invite you to take the next big step in your career.
+
+
+
+What You Will Be Doing
+
+
+
+
+Conducting Deep Dives. You will dive into specific areas of support that are not currently meeting our quality bar (e.g., a decline in NPS or an increase in reopened tickets).
+
+Writing Improvement Proposals. You will make improvement recommendations based on your deep dive findings aimed at achieving 100% customer satisfaction.
+
+Spend one day per week solving actual tickets from lower-level work queues to identify customer pain points and process inefficiencies and stay ""close to the work"".
+
+
+
+
+What You Won’t Be Doing
+
+
+
+
+Specializing in specific products. From L1 agents all the way to the top, our organization provides stellar service to every customer on every product.
+
+Deferring to gut feeling and managerial instinct. We are a knowledge-driven organization, and our managers make decisions based on hard evidence.
+
+
+
+
+Head Of Customer Support Key Responsibilities
+
+
+
+Making important decisions. Our customer support organization is an efficient machine capable of handling hundreds of products, thousands of support tickets per week, and tens of thousands of customers worldwide. Your job is to make sure the engine runs smoothly.
+
+
+
+Basic Requirements
+
+
+
+
+At least 5 years of technical customer support experience. While this is not a customer-facing role, we expect our support leaders to understand what it takes to be a top-performing support professional.
+
+Ability to understand code, scripts, and database queries. While you will not be writing code in this role, you will still need to pass a basic coding assessment to get hired.
+
+Ability to write clearly and concisely in English.
+
+Ability to work 100% remotely from your own home office.
+
+
+
+
+About Trilogy
+
+
+
+Hundreds of software businesses run on the Trilogy Business Platform. For three decades, Trilogy has been known for 3 things: Relentlessly seeking top talent, Innovating new technology, and incubating new businesses. Our technological innovation is spearheaded by a passion for simple customer-facing designs. Our incubation of new businesses ranges from entirely new moon-shot ideas to rearchitecting existing projects for today's modern cloud-based stack. Trilogy is a place where you can be surrounded with great people, be proud of doing great work, and grow your career by leaps and bounds.
+
+There is so much to cover for this exciting role, and space here is limited. Hit the Apply button if you found this interesting and want to learn more. We look forward to meeting you!
+
+
+Working with Crossover
+
+
+This is a full-time (40 hours per week), long-term position. The position is immediately available and requires entering into an independent contractor agreement with Crossover. The compensation level for this role is $100 USD/hour, which equates to $200,000 USD/year assuming 40 hours per week and 50 weeks per year. The payment period is weekly. Consult www.crossover.com/help-and-faqs for more details on this topic.
+
+
+What to expect next:
+
+
+
+You will receive an email with a link to start your self-paced, online job application.
+
+Our hiring platform will guide you through a series of online “screening” assessments to check for basic job fit, job-related skills, and finally a few real-world job-specific assignments.
+
+
+
+Important!
+ If you do not receive an email from us:
+
+
+First, emails may take up to 15 minutes to send, refresh and check again.
+
+Second, check your spam and junk folders for an email from Crossover.com, mark as “Not Spam” since you will receive other emails as well.
+
+Third, we will send to whatever email account you indicated on the Apply form - by default, that is the email address you use as your LinkedIn username and it might be different than the one you have already checked.
+
+If all else fails, just reset your password by visiting https://www.crossover.com/auth/reset-password if you already applied using LinkedIn EasyApply.
+
+ Crossover Job Code: LJ-3125-CA-Toronto-HeadOfCustomer.065
+
+
+
+",Linkedin,IT Manager - Database,,2022-03-09 01:49:11,"Information Technology, Engineering, and Customer Service",remote
+8,2919029568,"LP Multi-Site Lead, AMZL",Full-time,Mid-Senior level,Amazon,"IT Services and IT Consulting, Software Development, and Internet Publishing","Winnipeg, MB","
+
+
+
+Job Summary
+
+
+
+
+DESCRIPTION
+
+
+The Multi-Site Loss Prevention Site Lead (MLPSL) is a key leadership position within the Amazon Loss Prevention Team. If you are curious and want to challenge your conventional view of an LP role in a very unconventional space, this role within Amazon will provide that challenge! The Multi-Site LPSL leads the effort to efficiently, and effectively, provide security services and asset protection (lives, buildings, equipment, inventory, data, &amp; intellectual property) in a designated area of responsibility. (This role covers multiple sites (4-6) in a specific Metropolitan Statistical Area (MSA)). This role allows you to work through root cause analysis, you have the ability to effect change in your area of responsibility and the network. It gives you the ability to challenge the status quo and say, “how can we do it better.” The MLPSL delivers for their internal and external customers exceeding their expectations with new and innovated ideas. This leader fosters an environment of inclusion and diversity. The Multi-Site LPSL reports to the Regional Loss Prevention Manager responsible for their area, and aids them in supporting operational teams in addition to other cross-functional teams throughout the organization. Dependent on the role, this position may have direct reports.
+
+Key job responsibilities
+
+
+ Enhance, track, and report on metrics, which are key performance indicators, allowing performance improvements so that the desired outcomes are achieved to plan and in a timely manner.
+
+ Utilize continuous improvement to drive process enhancement and increase efficiency. Develop driven business cases using data collection, through database polling or data entry, from multiple DC; and conduct analysis generating strategic and tactical interpretations which receive the required approval, financial and technical resources, and the support of appropriate management to enact desired changes.
+
+ Engage, coach, train, and influence business partners to be an extension of Loss Prevention by equipping them with knowledge to identify leading indicators of Loss Prevention risk and educate them on the appropriate escalation path.
+
+ Ensure that team members understand Amazon, Global Security Operations, and Loss Prevention vision and values, in order to align performance this is done with your internal and external partners.
+
+ Assist with investigations of internal and external theft and fraud, and conduct interviews when appropriate.
+
+ Use tools, data analysis, and collaborate with internal partners to identify inventory defects and create strategic plans in an effort to mitigate losses.
+
+ Inspire performance excellence on the part of all security services team members and third party vendors. Leading the way to ensure that MSA is followed and executed appropriately.
+
+ You are the subject matter expert for all internal and external partners. Identify, promote and implement security best practices. Effectively partner with internal customers in evaluating current and future security services, processes and initiatives.
+
+ Recruit, hire, develop and retain candidates who raise the performance bar of the security services organization when needed
+
+ Posses the ability to move followers effectively into action, not with coercion but by eliciting their desire and conviction in the vision and values articulated by the organization, and can influence all internal and external stakeholders accordingly.
+
+ Incident response planning, implementation, execution, and management.
+
+ Effectively address loss mitigation, physical security considerations, potential and actual work place violence incidents per policy.
+
+ Travel up to 50% of the time (local, regional, and domestic only). Travel up to 25% domestically
+
+ This role covers a 24/7 operation and you must be able to work all shifts, including nights, weekends and holidays Work weekends and/or overnight shifts as necessary.
+
+ Work in an industrial environment that requires walking up to 5 miles a day and ability to lift up to 20 lbs. with our without reasonable accommodations.
+
+
+
+
+
+Basic Qualifications
+
+
+
+
+ Bachelor’s Degree or 5 + years relevant professional or military experience
+
+ 2+ years of experience in law enforcement, loss prevention, risk management, supply chain management, or other related field
+
+ 2+ years data collection experience with root cause analysis
+
+ 2+ years of people management experience
+
+ 1+ experience with MS Office Professional Suite, including intermediate knowledge of Excel
+
+
+
+
+Preferred Qualifications
+
+
+
+
+ Experience with Lean Six Sigma concepts desired and certification is a plus such as PMP
+
+ Experience with data bases (querying and analyzing) such as SQL, MYSQL, Access, Exception Based Reporting, etc.
+
+ Experience with security equipment such as intrusion detection devices, access control systems, and video review system
+
+ Experience with varies business types such as, logistics, warehouse, distribution center, multi-site loss management
+
+ Interviewing and Interrogation experience beneficial such as Wicklander and Zulawski, LPQ, CPP, LPC, CFI or other certifications is a plus
+
+ Workplace Violence and/or Business Continuity experience
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+
+
+
+Company
+ - AMZN CAN Fulfillment Svcs, ULC
+
+Job ID: A1928029
+      
+",Linkedin,IT Manager - Database,,2022-03-08 11:54:48,"Management, Distribution, and Supply Chain",
+9,2919016694,Program Manager,Full-time,Mid-Senior level,Amazon,"IT Services and IT Consulting, Software Development, and Internet Publishing","Vancouver, BC","
+
+
+
+Job Summary
+
+
+
+
+DESCRIPTION
+
+
+For more than 15 years, Amazon Web Services has been the world’s most comprehensive and broadly adopted cloud platform. AWS offers over 200 fully featured services to millions of active customers around the world—including the fastest-growing startups, largest enterprises, and leading government agencies—to power their infrastructure. Do you have the business and technical acumen to collaborate across multiple business owners to help drive successful IT transformation and cloud adoption? Would you like to be part of a team focused on working with customers to ensure they’re building data driven business cases to solve their objectives by migrating on-premise IT infrastructure into AWS?
+
+The AWS Migration Acceleration Services team is hiring a Program Manager to manage a portfolio of customer migration assessments. In this role, you will work with Customers, AWS account teams, our Client Delivery team, and AWS Partners to deliver data-backed assessments to customers for migrating their current on-premises workloads to AWS. The Program Manager will serve a key upfront role on these assessments by ensuring that our customers are choosing the correct tools and programs throughout the planning and execution of their migration, as well as serving as a contact person to reduce friction and roadblocks throughout the customer’s migration journey. You will also gather customer requirements, schedule software implementations and ensure customers and internal teams are well supported throughout their pre-migration assessment as they embark on their migration journey. You will oversee your region for all assessments to ensure top quality results are being presented to AWS customers.
+
+Key roles and responsibilities include, but are not limited to:
+
+
+ Manage the intake process for all new Migration assessments
+
+ Position and propose the inclusion of partners for an assessment, when applicable
+
+ Provide high-level demonstrations &amp; overviews of migration tools to outline options to internal and external customers
+
+ Gather requirements from customers regarding desired outcomes of the assessment to ensure the appropriate tools and teams are included
+
+ Ensure that an assessment is running smoothly and on time, following up to offer extra assistance when required
+
+ Provide a single point of escalation for teams needing Migration assistance, or for high profile assessments
+
+ Observe, measure, and provide quality control of the results being provided to customers from teams and partners in your region
+
+ Aggregate customer feedback to drive product innovation
+
+ Contributing to global or local initiatives to develop and share best practices to help scale the organization
+
+ Working with remote teams worldwide
+
+
+
+
+About The Team
+
+
+
+*Work/Life Balance*
+
+Our team puts a focus on balancing life with work, and does this via work autonomy. Our team is mainly focused on supporting customers and this can mean aligning your daily schedule with your meetings, or your personal needs (appointments, etc). This role is based in Vancouver, Canada, where a large amount of our team resides, though we have a global presence across multiple countries and time zones so we're flexible with our team working from home and we record meetings and minutes/agendas to allow for inclusivity of all time zones and availability.
+
+*Mentorship &amp; Career Growth*
+
+We’re committed to the growth and development of every member of the Migration Services team. You will have the opportunity to contribute to the culture and direction of this customer-facing delivery team, help improve operational aspects of assessment delivery and will be exposed to high-level cloud planning and financial conversations with a variety of internal and external customers, all with different needs and at different stages in their migration journey.
+
+The Migration Services team is a growth environment - we’re hiring and scaling to meet the needs of our customers. You’ll have the opportunity to grow your scope of influence on our service team naturally as we scale.
+
+*Inclusive Team Culture*
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and we host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+Come join a smart, innovative team that’s obsessed with serving its customers and make history with us!
+
+
+
+
+Basic Qualifications
+
+
+
+
+ 3+ years of experience working in a customer facing service delivery program management role
+
+ Experience presenting to customers or internal teams
+
+ Ability to clearly articulate technical concepts to a business audience
+
+ Experience with MS Excel
+
+
+
+
+Preferred Qualifications
+
+
+
+
+ Strong problem-solving skills with the ability to analyze quantitatively and effectively prioritize program deliverables
+
+ AWS Cloud Practitioner or Associate Solution Architecture Certification
+
+ Experience with AWS architecture (S3, EC2, etc.)
+
+ SQL and/or other relational database experience
+
+ Familiarity with data center and/or cloud infrastructure management
+
+ Familiarity with licensing models and strategies for Windows and SQL, Oracle, Linux
+
+ Exceptionally strong customer handling, conflict resolution, and problem solving skills; focus on quality in customer experience
+
+
+What if I’m not an expert in all the preferred qualifications listed on the job description? That’s okay. That’s our preferred list, not a required listed. We hire smart people who can dive deep so we’re more interested in the areas that you do know instead of those you haven’t been exposed to yet.
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+
+
+
+Company
+ - Amazon Dev Centre Canada ULC
+
+Job ID: A1839229
+      
+",Linkedin,IT Manager - Database,,2022-03-08 11:56:17,"Project Management, Information Technology, and Product Management",
+10,2955724174,Database Administrator,Contract,Mid-Senior level,Quarry Consulting,IT Services and IT Consulting,Greater Ottawa Metropolitan Area,"
+
+
+
+Title
+: Database Administrator
+
+
+Duration
+: 6 months with possibility of extension
+
+
+Location
+: Ottawa, On
+
+
+
+
+
+Background/Overview (including Statement of Work)
+
+
+Under the supervision of the IT project manager, the database administrator (DBA) will be
+
+responsible for the management of databases at the CECCE and the proper functioning of the
+
+student management system. He or she also participates in the development, implementation,
+
+and proper functioning of the CECCE's information management systems. The main
+
+responsibilities are:
+
+- ensure the proper functioning of the databases, their updates, and their availability.
+
+- plan and make the necessary backup copies of databases.
+
+- ensure after each restoration of the availability of databases at the redundancy site
+
+- keep the database management systems up to date.
+
+- Work in close collaboration with the programming team for the design of logical database
+
+models and the creation of structures and objects necessary for the implementation of
+
+computer applications.
+
+- monitoring the physical storage of data and collaborating as needed with system
+
+administrators to allocate the resources necessary for the proper functioning of database
+
+systems.
+
+- actively participate in the planning of data migrations between systems.
+
+- building and creating PL/SQL and T-SQL scripts (stored procedures, functions, packages, etc.).
+
+- analyze and optimize the performance of the database management system, Oracle, and SQL
+
+server.
+
+- extract and analyze data from different computer applications to meet the needs of other
+
+departments and schools.
+
+- develop and maintain up-to-date data exchange procedures between the Council and the
+
+various partners such as Xello, Desire 2 Learn, CESAP, CFORP.
+
+- produce extracts to meet the needs of the various partners, ministry of education, health
+
+offices, school photographers, etc.; - create, among other things, Jasper Soft reports.
+
+- take the necessary measures to solve computer problems arising from his work.
+
+
+
+
+
+
+
+
+
+
+
+Mandatory Requirements
+
+
+1) College diploma in computer science, programming, or a combination of education and
+
+relevant experience deemed equivalent by the CECCE.
+
+2) More than five (5) years of experience as a relational database administrator such as
+
+Oracle, Microsoft SQL Server, or others.
+
+3) Experience in relational database administration such as Oracle, MS SQL Server, or
+
+others.
+
+4) Experience with Oracle's PL/SQL and SQL Server's T-SQL
+
+5) Experience with report generation tools such as Jasper Soft, Crystal Report or others.
+
+6) Good knowledge of the Windows server environment.
+
+7) Experience in project management.
+
+
+8) Bilingual i.e., French, and English both spoken and written.
+
+
+
+",Linkedin,IT Manager - Database,,2022-03-08 17:57:45,Engineering and Information Technology,
+11,2960249010,DATABASE ANALYST 3 (Surrey Police Service),Full-time,Entry level,BCjobs.ca,"Motor Vehicle Manufacturing, Staffing and Recruiting, and Truck Transportation","Surrey, BC","
+
+        Be a part of a historical policing transition by joining our Surrey Police Service team today. The Surrey Police Service (“SPS”) is bringing an era of modern and progressive policing to Surrey. We are a community-based policing service that is at the forefront of public safety. We are committed to meeting our city’s unique priorities and building a team that reflects the communities we serve. Help us build a new community-responsive police service that will support one of the fastest growing and diverse cities in Canada.
+
+Surrey Police Service has an exciting opportunity for a Database Analyst to join the Investigations Bureau unit. This position will be critical as SPS (Surrey Police Service) builds out the information technology infrastructure and support systems to better connect and protect our police officers through our state-of-the-art IT systems and solutions, on our road to police of jurisdiction.
+
+Reporting to the Manager, Information Management and Technology, our successful candidate will apply their database management talents by accessing and allocating database resources for optimum configuration and performance; performing backups and recovery; configuring database parameters and prototype designs against logical data models, defining data repository requirements, data dictionaries, and warehousing requirements. In addition, the Database Analyst supports multiple services and databases of medium to high complexity with multiple concurrent users, ensuring control, integrity and accessibility of data.
+
+This role will require strong communication skills, including an ability to write IT procedures, reports, and documenting business processes and policies. In addition, a person in this role will also need to be comfortable with presenting recommendations to various senior management audiences and key stakeholders at a business level of communication. Finally, providing oversight, communicating work procedures and mentoring junior IT employees may be required as needed.
+
+Our successful candidate will be highly organized and solutions-focused with an ability to think critically and efficiently. Our candidate will thrive in a fast-paced and collaborative environment with an ability to build and maintain effective working relationships with users, team members, and key stakeholders.
+
+The successful candidate will possess a bachelor’s degree in Business Administration, Computer Science, Information Management, or related field by a recognized educational institution supplemented by 2 or more years of related work experience in similar position preferably within a policing and/or public sector organization. An equivalent combination of education and experience may be considered.
+
+
+Candidates with Microsoft SQL Server experience will be given preference, however experience with additional database technologies will be an asset.
+
+
+This position is unionized represented by CUPE Local 402. The salary range for this position is 
+$50.37/hr-$57.13/hr
+ based on 2022 Rates.
+
+Interested applicants are asked to apply online with a resume and cover letter to our Careers page by 11:59 pm, Sunday March 20, 2022. For updates on recruitment opportunities and other Surrey Police Service news, follow us on LinkedIn, Instagram, Facebook, and Twitter.
+
+SPS has a vaccination policy in effect with requirements for all current and future employees. Applicants under consideration will be required to undergo a criminal record check.
+
+The Surrey Police Service is an Equal Opportunity Employer. We thank all applicants for their interest; however, only those selected for an interview will be contacted
+
+Value
+      
+",Linkedin,IT Manager - Database,,2022-03-09 02:30:33,Information Technology,
+12,2876526775,IT Project Manager,Full-time,Not Applicable,"Canadian Bank Note Company, Limited","IT Services and IT Consulting, Software Development, and Computer and Network Security","Ottawa, ON","
+
+
+We are excited to be hiring for several IT Project Managers to grow our team!
+
+
+
+
+
+What’s In It For You?
+
+
+
+
+
+All over the world, people travel safely through borders, trust local currency and carry reliable ID because of the IT systems and documents that we design and build. Our ID Systems tech team is responsible for the design, development and deployment of these leading-edge solutions that are vital components of our customers’ critical infrastructure. You get to be a part of that!
+
+
+
+
+Not only are our projects important, they are interesting. No one solution is the same and you will be a key member of the team delivering unique solutions for our customers across the globe. You will be involved in all project phases and will have the opportunity to see your project plans brought to life.
+
+
+
+
+
+What Will You ‘Be’?
+
+
+
+
+
+
+
+The Project Contact
+. You will work closely with our external customers and our internal project stakeholders and will be the point person for all things ‘project’: plans, updates, changes, questions, everything. Working in sync with our Marketing and Business Development representatives, as well as the many technical teams, your goal will be to deliver a solution that addresses all our client requirements and be an active actor in the continuous improvement of our products.
+
+
+The ‘Conductor of the Orchestra’
+. The project teams will be made up of cross-functional groups including Business Analysis, Software Development and Testing, Hardware Development and Integration, Networking, Customer Support and the Secure Document Manufacturing operation. There are many moving parts to our projects, and since no one solution is the same, you will be a dynamic leader ensuring that all department representatives are working together to ‘make music’.
+
+
+The Time, Budget and Quality Advocate
+. Delivering high-quality security solutions is our ‘raison d’etre’ and you will work to ensure we do this on time and on budget, always with an eye on quality to maintain our SLAs.
+
+
+The Tracker.
+ You will know what is happening with the project at every stage and will ensure project deliverables and milestones are tracked effectively. Project reporting, status updates and document management will be key elements of your role.
+
+
+
+
+
+
+What Will Help You Succeed?
+
+
+You will be a dynamic project manager who thrives in managing complex IT projects of varying scope. Leveraging your experience in IT project management, your commitment to quality and dedication to delivery will help you achieve success in our organization.
+
+
+
+
+
+
+Knowledge/Experience
+
+
+
+
+Degree/diploma in Computer Science/Engineering (or related), or Business/Commerce/Related with significant experience in the IT space.
+
+Significant experience delivering custom IT turnkey solutions with a strong technical knowledge of the components that comprise a solution including server architecture, database technologies, network infrastructure and specialized desktop peripherals such as printers and scanners.
+
+Expertise coordinating complex IT systems development and deployment projects that involve integration with legacy solutions, third-party systems and/or security interfaces.
+
+Experience leveraging strong analytical skills and expertise in risk and budget management to develop effective project plans for projects where the path forward is not always known.
+
+Skilled user of MS suite of applications including MS Project, Excel, Visio and Word
+
+PMP designation (asset)
+
+
+
+
+
+
+
+ Soft Skills
+
+
+
+
+Excellent professional communication skills
+
+Strong facilitation skills
+
+Effective relationship-builder
+
+Customer-focused
+
+Strategic, rational thinker
+
+Dynamic
+
+Organized
+
+English is mandatory, bilingualism (French or Spanish) is an asset
+
+
+
+
+
+
+ Mandatory Requirements
+
+
+
+The ability to obtain and maintain, Government of Canada Secret (Level II) clearance;
+
+The ability to travel domestically and internationally. Approximately 4 trips annually (each 1-4 weeks in duration)- when it is safe to travel
+
+
+
+
+
+People who enjoy variety and think beyond their job descriptions succeed here. As part of the team at CBN, your job is to take your career in new directions and be part of our customer’s success stories. So, if you’re looking for the chance to work for a global technology company, explore new opportunities, and deliver exceptional work to your customers, we want to hear from you!
+
+
+
+
+As an Equal Opportunity Employer, Canadian Bank Note Company, Limited is committed to achieving a skilled and diversified workforce that reflects the diversity of the Canadian population. We encourage applications from women, visible minorities, people with disabilities and Aboriginal people. Canadian Bank Note Company Limited is committed to developing inclusive, barrier-free selection processes and work environments. If contacted regarding this competition, please advise the interview coordinator of any accommodation measures you may require.
+
+
+",Linkedin,IT Manager - Database,,2022-03-09 02:15:20,Information Technology and Project Management,
+13,2959826634,Data Coordinator Assistant (VEC),Part-time,Entry level,The University of British Columbia,"Higher Education, Non-profit Organizations, and Hospitals and Health Care","Vancouver, BC","
+
+        Staff - Non Union
+
+Job Category
+
+Non Union Technicians and Research Assistants
+Job Profile
+Non Union Salaried - Research Assistant /Technician 4
+
+Job Title
+
+Data Coordinator Assistant (VEC)
+
+Department
+
+Vaccine Evaluation Centre | Department of Paediatrics | Faculty of Medicine
+
+Compensation Range
+
+4,558.75 - $5,354.67 CAD Monthly
+
+Posting End Date
+
+March 16, 2022
+
+Note: Applications will be accepted until 11:59 PM on the day prior to the Posting End Date above.
+
+
+Job End Date
+
+
+Mar 31, 2023
+
+This position will work part-time 0.80FTE (28 hours/week).
+
+This position is located within a health-care facility, therefore, the successful candidate will be required to provide verification of full vaccination against Covid-19 provided prior to the start date, as required by a provincial health mandate.
+
+This offer is conditional upon successful completion of a Criminal Record Check.
+
+
+
+Job Summary
+
+
+
+To perform research activities related to databases and vaccine studies including a large ongoing surveillance program. Duties include: developing specialized databases for surveillance and clinical trials, maintaining patient tracking database programs, creating quality edit checks and performing data cleanup; documentation of database user’s manual and maintaining digital long term storage systems. In summary conducts a wide range of tasks related to data handling and storage.
+
+
+Organizational Status
+
+
+Reports to Data Manager or Senior Data Manager depending on the project.
+
+
+Work Performed
+
+
+
+Developing specialized databases for each study using the existing case report form. This includes setting up appropriate parameters for each variable to ensure study protocol requirements are met.
+
+Maintaining CRF tracking database program and editing parameters to meet new study requirements as described in the study protocols. Populating and maintaining the master patient central registry database.
+
+Creating specialized quality edit checks in SAS.
+
+Conducting all data cleanup procedures, including generating queries and resolving discrepancies.
+
+Overseeing the quality control of the data throughout the course of each study ensuring that all work performed by study staff adheres to policies and standards. 
+
+Maintaining the digital long term storage system, including document scanning and routine backup procedures.
+
+Maintaining version control documentation for long-term databases.
+
+Writing database user’s manuals for data entry.
+
+Assisting clinical coordinators as required for clinical trials 
+
+
+
+Consequence of Error/Judgement
+
+
+Exercises data management judgment (including some non-routine). Duties are performed according to VEC operating policies and procedures. Some non-routine decisions are made without consultation. Poorly designed databases can result in higher study costs because of extra time spent dealing with data entry, data management and data analysis. Poorly designed databases can also result in making it difficult to perform effective data analysis affecting the overall science of the study.
+
+Consequences of errors in decision-making may affect the integrity of databases and/or the integrity of study outcomes. As a result the reputation of the data manager, investigators and the VEC could be jeopardized.
+
+
+Supervision Received
+
+
+The individual is expected to know and conduct routine tasks for projects and carrying them out independently. Progress reports are provided to the data manager. Supervision is limited in that tasks are assigned and the end result is reviewed. Supervision comes from the data manager.
+
+
+Supervision Given
+
+
+Provides technical assistance to data entry staff.
+
+
+
+Minimum Qualifications
+
+
+
+Completion of a university degree in a relevant discipline or technical program and a minimum four years of related experience or an equivalent combination of education and experience. Some positions may require a graduate degree.
+
+Related experience in research. Experience in data management of clinical trials preferred. Advanced Microsoft Access database programming and intermediate level of SAS programming are required.
+
+
+
+Preferred Qualifications
+
+
+
+Ability to communicate effectively verbally and in writing. Ability to maintain accuracy and attention to detail. Ability to work effectively independently and in a team environment. Ability to work under pressure to meet deadlines.
+      
+",Linkedin,IT Manager - Database,,2022-03-08 20:49:20,Information Technology,
+14,2955577973,Full Stack Engineer,Full-time,,August,,"Toronto, ON","
+
+
+
+About Us
+
+
+August is about people. Our partners, our clients and our team make up the lifeblood of our company. We value personal accountability, encourage open, critical thinking and embrace diversity. Most importantly we're interested in how technology can solve the challenges they face.
+
+
+
+
+We help clients across industries adapt and excel in the digital era by offering innovative solutions to challenges across web, mobile, and emerging platforms. Our clients and projects range in scope, industry and size but our commitment to deliver digital solutions to address our customers' needs are a constant.
+
+
+
+
+Full-stack development requires a broad skillset. The best candidates will demonstrate substantial experience within each of the several areas outlined below. Where a 
+web developer
+ tends to be specialized in either front-end or back-end development, a 
+
+full-stack engineer 
+
+will be proficient across the board, including any associated areas such as database design/management and DevOps.
+
+
+
+
+
+Full-Stack Developer
+
+
+The key to exceptional front-end engineering is a thorough understanding of user experience, and in turn, user interface implementation. The latter requires a comprehensive understanding of various front-end technologies, the core being HTML, CSS, and JavaScript. It is also beneficial for the engineer to be familiar with various frameworks and libraries, but the specific ones are down to personal preference. It’s a bonus to have an appreciation/understanding of product strategy.
+
+
+
+
+Back-end engineering does not require an understanding of user experience, 
+per se
+. However, it does demand extensive knowledge of API principles. This does not necessarily have to be REST, but in most cases, this is the preferred paradigm. In addition to this, the candidate must excel in at least one back-end technology as well as database design and implementation. It is also important that the candidate holds more than just a basic understanding of managing relevant infrastructure.
+
+
+
+
+
+The Role
+
+
+We are looking for a seasoned full-stack engineer to join our growing team. As an integral part of the technical team, S/He will collaborate with a small team of developers and designers, along with the support and direction of the Technical Lead and Project Manager to build great products for our clients. Successful candidates will have a minimum of five years’ recent experience with all of the skills listed below.
+
+
+
+
+
+Responsibilities:
+
+
+
+Analyze user needs and develop software solutions
+
+Work with the project manager or product owner to meet specification needs
+
+Design and implementation of the overall web architecture
+
+“Pixel-perfect” implementation of our approved user interface
+
+Recommend software upgrades to optimize operational efficiency
+
+Collaborate with other developers to design and optimize code
+
+Create flowcharts and user guides for new and existing programs
+
+Document all programming tasks and procedures
+
+Perform routine software maintenance
+
+Design overall architecture of web applications.
+
+Handle responsive design, accessibility and mobile requirements, leveraging best practices and modern frameworks.
+
+Develop test strategies, design automation frameworks, write unit/integration tests to drive up code coverage, automation metrics, security and data protection
+
+Interact with business partners, teammates, internal users and external users regarding cost estimations, timelines, technical issues, and infrastructure support both pre- and post-production
+
+Utilize disciplined coding practices and concepts to enable agility and delivery of high-quality code that is maintainable and reusable
+
+Update progress daily through Project Management tracking tool (ex. Jira) or Kanban/Agile board.
+
+Design and develop APIs and SDKs for our services or products
+
+
+
+
+
+
+Qualifications:
+
+
+
+Experience (5+ years) in software development, computer engineering, or other related fields
+
+Experienced (3+ years) with NodeJS, Vue or other back-end programming languages (PHP, Python, Ruby, Java, etc)
+
+Experience (at least 3 years) with ReactJS and other front-end frameworks (advanced JavaScript libraries and frameworks such as AngularJS, KnockoutJS, BackboneJS, DurandalJS etc.)
+
+Experience (5+ years) building on WordPress (NICE TO HAVE)
+
+Database design and management, including being up on the latest practices and associated versions and familiarity with relational databases such as MySQL, Oracle, and SQL Server
+
+Knowledge of GIit code versioning
+
+Engagement and exposure to the full software development life cycle
+
+Deadline and detail-oriented
+
+familiarity with CSS preprocessors, bundlers, and associated languages/syntaxes/libraries ( e.g., Sass, Less, and webpack)
+
+Thorough understanding of user experience and possibly even product strategy
+
+Experience implementing testing platforms and unit tests
+
+
+
+
+
+
+Perks
+
+
+
+A competitive base salary package
+
+Paid time off: vacation, public holidays, office is closed between Christmas and New Years
+
+Full health and dental benefits
+
+Remote Work Policy
+
+Company parties in the summer, winter, and a few fun events in between
+
+Engaging, fun, and casual company culture
+
+
+
+
+
+PLEASE INCLUDE A GITHUB REPO AND PORTFOLIO LINK WITH RESUME
+
+
+",Linkedin,IT Manager - Database,,2022-03-08 16:31:46,,remote
+15,2946270595,Lead Software Developer - Core Infrastructure,Full-time,Mid-Senior level,Moving Picture Company,Movies and Sound Recording,"Montreal, QC","
+
+
+Company Description
+
+
+TO BE ELIGIBLE FOR REMOTE WORK YOU MUST RESIDE IN QUEBEC
+
+The Moving Picture Company (MPC) has been a global leader in visual effects (VFX) for over 25 years and counting, with established facilities across the globe. We are renowned for adding visual wonder and creative expertise to the film, advertising and entertainment industries, with some of our most famous projects including the blockbuster movies Blade Runner 2049, The Jungle Book, The Lion King and The Martian, and advertising campaigns for Channel 4, Sony and IKEA.
+
+MPC is part of Technicolor’s premiere portfolio of VFX brands and services, working alongside Mr. X and Mikros to provide offerings tailored to the specific creative and storytelling needs of each project. Within this collective, MPC has built a reputation for industrial-scale production of images, and the software development to enable this.
+
+
+Job Description
+
+
+As an Infrastructure Engineer in the Core Engineering team, your role is to further the development of the Core Platform to meet the needs of our users and the wider business.
+
+You will draw on your skills and experience to both extract and modernise the Core Platform for use by other Technicolor companies, and to maintain ongoing use by MPC. You will focus on developing the primary infrastructure for the platform, specifically the micro-services platform and associated monitoring.
+
+The Core Platform has a broad scope and diverse user group. While there is some expectation of the role to work across multiple aspects of the platform (building features, fixing bugs, general enhancements), some developers do specialise and focus on specific subject areas. This may happen immediately, or after some time having gained familiarity with many areas of the platform.
+
+
+Your Responsibilities
+
+
+In this role, your responsibilities will include;
+
+
+Work with your colleagues to extend capabilities, fix bugs, and improve performance from start to finish.
+
+Define and develop services that form part of the 'batteries included' offering of the micro-services platform.
+
+Advocate for professional standards of development.
+
+Review events that impact availability and performance to guide future improvements.
+
+Troubleshoot problems across different levels of the stack, and in production environments.
+
+Take responsibility for code quality, always leaving projects in better state than before you started work.
+
+Contribute to maintaining an authoritative source of documentation.
+
+Coordinate with leadership to define and prioritise projects.
+
+Support the introduction of new technologies where and when appropriate.
+
+Evangelise use of the Core Platform within MPC and other Technicolor business units.
+
+Take initiative to improve the developer experience in small or large ways.
+
+Mentor and pair with others in the team to encourage the professional and technical growth of others.
+
+Take part in the hiring process by screening applicants, participating in interviews or posing interview questions as required.
+
+Own your personal development plan and identify training opportunities for others in the team.
+
+Provide some level of operational support for the platform as required.
+
+Work with the product owner and stakeholders to establish requirements and report progress.
+
+
+
+Qualifications
+
+
+To succeed in the role, the following experience and competencies are required;
+
+
+Strong knowledge of microservices architecture, design and implementation.
+
+Knowledge of the various components used to develop micro-service frameworks (such as uWSGI, NGINX, RabbitMQ and Flask).
+
+Expertise in k8/Kubernetes and Docker.
+
+Production-level experience using Python for service backends or development infrastructure.
+
+An understanding of concurrency as it applied to CPython, and writing code that scales gracefully.
+
+Experience administering and gaining insight from monitoring tools (such as Prometheus, Alert Manager, Grafana and Graylog).
+
+A working understanding of HTTP and JSON.
+
+
+
+Requirements
+
+
+
+Familiarity with source control, in particular Git, and associated best practices.
+
+Comfortable working in a primarily Linux based development and runtime environment.
+
+A solid knowledge of testing principles, in particular TDD and/or BDD.
+
+Proven problem-solving skills around technical, product and business requests.
+
+Be able to consider a technical solution from different perspectives, including algorithms, complexity, correctness, maintainability.
+
+Collaborative and team oriented approach to product development, working with teams across locations, timezones and cultures.
+
+Excellent verbal and written communication skills.
+
+Be self-motivated and demonstrate strong organisational skills.
+
+
+
+Nice to have
+
+
+The following are not essential to be successful in the role, however prior experience or the desire to grow in these areas will be of benefit;
+
+
+SQL and general database knowledge for query writing and optimisation.
+
+Engage in engineering practices that avoid incidents and share knowledge of best practices for monitoring, alerting, etc
+
+Understanding of CI/CD best practices and advocate for their use and improvement.
+
+Familiarity with web frameworks and/or full-stack development.
+
+Cross-platform development on Windows and OS X.
+
+Knowledge of Python packages and frameworks such as Flask, PyQt, PyMySQL, etc.
+
+An interest in the architectural perspective - contributing to architectural decisions and other technical documentation.
+
+Experience of Agile and lean methodologies, and an interest in process improvement in these areas.
+
+Comfortable working in a fast-paced and dynamic environment where requirements change.
+
+Able to present technical concepts to a broad audience with varying level of technical understanding.
+
+Experience working with large, legacy code bases; from maintenance and refactoring through to end-of-life support.
+
+An awareness of security and keeping content secure.
+
+
+
+Additional Information
+
+
+Please click here to review our privacy notices for job applicants.
+
+If you require assistance applying, please reach out to talent@thefocus.com and we'll be happy to assist.
+
+
+TECHNICOLOR IS AN EQUAL OPPORTUNITY EMPLOYER
+
+
+Technicolor complies and prohibits against discrimination on the basis of race, religion, creed, color, national origin, ancestry, medical condition (including genetic characteristics), mental and/or physical disability or handicap, marital status, sex, age, veteran status, citizenship status, sexual orientation, gender identity, political party preference, political belief, socioeconomic status, familial status, registered domestic partner status, military service, pregnancy, childbirth and related medical conditions and any other characteristic or activity protected by federal, state/provincial or local law.
+
+All your information will be kept confidential according to EEO guidelines.
+      
+",Linkedin,IT Manager - Database,,2022-03-08 16:22:55,Information Technology,remote
+16,2955783887,Recruitment Sourcing Specialist (6 - 12 month contract role),Full-time,Entry level,HOOPP (Healthcare of Ontario Pension Plan),"IT Services and IT Consulting, Banking, and Financial Services","Toronto, ON","
+
+
+Why you’ll love working here:
+
+
+
+high-performance, people-focused culture
+
+our commitment that equity, diversity and inclusion are fundamental to our work environment and business success, which helps employees feel valued and empowered to be their authentic selves
+
+learning and development initiatives, including workshops, Speaker Series events and access to LinkedIn Learning, that support employees’ career growth
+
+competitive, 100% company-paid extended health and dental benefits for permanent employees with recent additions to promote inclusive coverage to a diverse employee population. These recent additions include gender affirmation and fertility drug and treatment coverage
+
+membership in HOOPP’s world class defined benefit pension plan, which can serve as an important part of your retirement security
+
+access to an annual wellness reimbursement program for health and wellness-related expenses for permanent employees
+
+virtual fitness, yoga and meditation classes, nutritional consultations and wellness seminars
+
+flexible hybrid work model that embraces remote work
+
+the opportunity to make a difference and help take care of those who care for us, by providing a financially secure retirement for Ontario healthcare workers
+
+
+
+
+Job Summary:
+
+
+As a Recruitment Sourcing Specialist, you will be developing strong external candidate relationships and driving talent to HOOPP through your creative sourcing channels and ability to build a diverse pipeline for a variety of highly niche roles.
+
+The Recruitment Sourcing Specialist is responsible for generating talent pipelines and developing robust sourcing strategies to attract and engage passive talent. The thrill of the “hunt” to uncover hidden talent is the driving purpose of this role and for creating a positive candidate experience while strengthening HOOPP’s employer brand.
+
+
+What you’ll do:
+
+
+
+Partners with recruiters and business leaders to develop business specific sourcing strategies that attract and retain the best talent
+
+Conduct research using advanced Boolean techniques, google searches, social media recruiting and other creative sourcing techniques to create talent pipelines for all requisitions assigned to you
+
+Attract, pre-qualify and submit talent for future and current roles within a variety of skillsets not limited to IT, Risk and Investment Management
+
+Manage multiple searches and communicate all activity with stakeholders on a regular basis
+
+Accountable for conducting a thorough needs analysis of each hiring manager's recruitment needs and documenting into a service level agreement for each project
+
+Ensures managers and recruiters are updated in a timely manner by providing valuable market insights and intelligence.
+
+Networking with passive candidates as well as resume mining, database searching, and ensuring an active presence on all appropriate job boards and social media
+
+Maximize candidate experience and communication to ensure HOOPP remains competitive in the marketplace and able to attract high quality talent
+
+Maintain all relevant information in the applicant tracking system, ensuring integrity of reporting data
+
+Provide weekly metrics on number of prospects, individuals contacted, and candidates interviewed/hired, ratios etc.
+
+Develop relevant and timely updates on metrics and trends with proactive recommendations to deliver on strategies and hiring plans
+
+Assist on full cycle recruiting and ad hoc projects as required
+
+
+
+
+Who you are:
+
+
+
+University degree with 3+ years of proven sourcing experience in-house or with an agency
+
+Preference for recruiting for niche roles within complex organizations within financial services or IT
+
+Experience sourcing for IT agile environments is preferred
+
+Excellent relationship development, communication, and advisory skills to provide value added consultative service
+
+Global sourcing experience is an asset
+
+High degree of professionalism, influencing and consulting skills
+
+Proven creative and pro-active mindset to source and build pipelines to locate quality candidates
+
+The ability to multitask and juggle multiple searches
+
+Strong sense of urgency, attention to detail and level of accuracy
+
+Experience with Workday is an asset
+
+
+
+
+Notice for job applicants:
+
+
+Following the advice of Canadian
+
+health authorities, to mitigate the risk of potential spread of COVID-19 and
+
+support social distancing, all recruiting activities including interviews
+
+and new hire onboarding will be conducted online. While we are doing our
+
+best to ensure reasonable response times, please expect some delays during
+
+the recruiting process due to the current situation. Thank you for your
+
+patience and understanding during these challenging times.
+
+For additional information on our adjusted recruitment process, please email us at
+
+hrinbox@hoopp.com.
+      
+",Linkedin,IT Manager - Database,,2022-03-08 22:54:41,Human Resources,
+17,2959706393,Part-Time Dispatcher (Permanent),Part-time,Associate,Ottawa Community Housing Corporation (OCH),Non-profit Organizations,"Ottawa, ON","
+
+
+Ottawa Community Housing (OCH) is a landlord who provides 15,000 homes to 32,000 residents including seniors, parents, children, couples, singles and persons with special needs within many communities across the City of Ottawa. As the largest social and affordable housing provider in Ottawa and the second largest in Ontario, we manage two-thirds of the City’s social housing portfolio.
+
+
+
+
+But we are no ordinary landlord. We are partner, supporter, and cheerleader in the lives of some 32,000 residents who live in affordable and social housing in Ottawa. Through our vision, mission and values, OCHC provides homes that link people in need to supports and services that can help them lead healthy, safe and fulfilling lives. Call Centre, maintenance and community safety services are available to the tenants 24 hours a day, 7 days a week. While we are a non-profit organization, funded by and operating at arm’s length from the City of Ottawa, OCHC operates a lean, high-functioning business model, with a social purpose that is well regarded across the social housing sector in Canada and abroad.
+
+
+
+
+The work we do at OCH enables our tenants to fully participate in the socio-economic opportunities of the City. By joining our team, you will play a vital role in the development of safe and healthy communities. Together, we build homes and communities that embrace diversity inclusion.
+
+
+
+
+At Ottawa Community Housing, we strive to represent the diversity present within the communities we serve. We are committed to engaging employees in creating a workplace culture of inclusion and belonging, where everyone can bring their authentic selves to work and feel valued. Our employees come from all different backgrounds, age groups, sexual orientations, speak a multitude of languages, and share different experiences and perspectives. We would not have it any other way.
+
+
+
+
+OCH has been recognized as one of National Capital Region’s top Employers for five years in a row. Click here to learn what makes us different:
+
+https://reviews.canadastop100.com/top-employer-ottawa-community-housing
+
+
+
+
+
+
+
+We are proud because every day we make a difference!
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+POSITION SCOPE
+
+
+
+
+
+Reporting to the Manager, Community Safety Services Operations, the Dispatcher supports the Community Safety Services and After-Hours Service Delivery teams by providing dispatching services that support the safe, effective and timely response to calls for service related to security, maintenance and parking. The Dispatcher receives and prioritizes calls, gathers and communicates accurate information to staff and contracted services, provides ongoing communication to, and support for, the coordination of staff in the field and ensures appropriate and accurate documentation.
+
+
+
+
+
+ 
+
+
+
+SUMMARY OF DUTIES AND RESPONSIBILITIES
+
+
+
+ 
+
+
+
+Receives requests for service and supports OCH’s response through the dispatch and ongoing support of required resources, including Community Safety Services, after-hours maintenance, parking staff, on-call managers, and contracted services
+
+Prioritizes requests for service after gathering and confirming all relevant information and with consideration to guidelines, urgency, and safety of staff and public
+
+Supports the ongoing coordination of dispatched staff and contracted services, including maintaining ongoing radio contact, communicating updates and relevant and requested information in support of the safe, effective and timely resolution of calls for service
+
+Uses applicable software and communications technology and ensures the accurate and timely retrieval and documentation of all required information related to calls for service
+
+Understands, explains and supports adherence to procedures and directives by staff in the field, including standard operating procedures for emergency situations, maintenance issues and call-out procedures
+
+Communicates with appropriate emergency service(s) for assistance as needed
+
+Receives and responds to or transfers calls of an administrative nature from internal staff
+
+Monitors equipment used, reports problems and provides support through to resolution, as required
+
+Promptly reports all workplace accidents or incidents and unusual or dangerous work conditions
+
+Represents OCH in a professional manner and treats all work-related contacts with respect and courtesy
+
+Works in collaboration with other staff in a team approach to service delivery
+
+Works in alignment with OCH values, interests and strategic objectives
+
+Performs work in compliance with statutory requirements, including all applicable Occupational Health and Safety legislation, Municipal Freedom of Information and Protection of Privacy Act, Residential Tenancies Act, and OCH policies and procedures
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+EDUCATION/EXPERIENCE
+
+
+
+
+
+A typical candidate will have the following qualifications and experience. Exceptional candidates with different qualifications will be considered at the discretion of the employer if demonstrated experience, knowledge and ability warrant.
+
+
+
+
+
+Completion of Grade 12
+
+A minimum of two (2) years of experience in dispatching in a law enforcement or security services environment
+
+
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+KNOWLEDGE AND ABILITY REQUIREMENTS
+
+
+
+Knowledge of dispatch practices and services
+
+Knowledge of geographical areas serviced by OCH, map reading, telephone etiquette, radio protocol, operation of two-way radio
+
+Knowledge of phonetic alphabet and various terminology and codes used by emergency services personnel to understand and communicate with emergency services
+
+Knowledge of standard corporate software and database applications, including Outlook,
+
+Word, Excel, internet browsers, Computer Assisted Dispatch, Enterpol Records Management System and Northgate
+
+Knowledge of department operational policies, procedures and directives
+
+Knowledge of factors present in tenant populations in social housing
+
+Understanding of the values, vision and mission of Ottawa Community Housing and a commitment to support those objectives
+
+Knowledge of applicable health and safety
+
+Knowledge of the Municipal Freedom of Information and Protection of Privacy Act, Residential Tenancies Act, Trespass to Property Act, Criminal Code of Canada, and other relevant provincial and municipal statutory requirements
+
+Written communication skills, including to log call details, update information on incidents and to provide written responses to requests for information
+
+Oral communication and interpersonal skills to clearly and effectively interact with internal resources and emergency personnel by telephone and radio
+
+Able to identify problems accurately and identify solutions
+
+Ability to prioritize and coordinate multiple calls with consideration to guidelines, urgency, and safety of staff and public
+
+Ability to draw information from various sources
+
+Exercises appropriate judgment, including in communicating pertinent information to staff and dispatching resources in support of the safe and effective resolution of calls for service
+
+Able to follow protocols and instructions and make decisions quickly within guidelines without close supervision
+
+Ability to work under pressure and maintain self-motivation
+
+Works in a confidential manner and demonstrates tact and diplomacy when dealing with sensitive issues
+
+Proficiency in the use information technology such as telecommunication equipment and computer systems in the performance of work
+
+
+
+
+
+
+ 
+
+
+
+LANGUAGE REQUIREMENTS
+
+
+
+Oral fluency and reading and writing abilities in English are required
+
+Oral fluency, reading and comprehension in French is required
+
+An ability to speak additional languages commonly used by OCH tenants is an asset
+
+
+
+
+
+
+ 
+
+
+
+OTHER REQUIREMENTS
+
+
+
+Satisfactory Criminal Records Check
+
+Able to work rotational shifts (afternoons, nights, weekends and holidays).
+
+Proof of full vaccination against COVID-19 as approved by Health Canada or listed for emergency use by the World Health Organization, a valid medical or other consideration under the Ontario Human Rights Code
+
+
+
+
+
+
+
+
+OCH is committed to providing accommodations for people with disabilities. If you require an accommodation, please notify Human Resources and we will work with you to jointly address your needs.
+
+
+",Linkedin,IT Manager - Database,,2022-03-08 17:35:44,Customer Service and Other,
+18,2959559226,Towed Array Technician,Full-time,Entry level,Ultra Electronics 3eTI,Armed Forces,"Dartmouth, NS","
+
+        The Ultra manufacturing function is responsible for the manufacture, integration and test of a wide range of products and systems providing innovative capabilities for our customers.
+
+Having trouble applying through the link? Please submit your CV/resume over to careers@ultra-us-gbs.com. Please reference the job title and location in your email.
+
+
+
+Job Description
+
+
+
+Working with general supervision, the Towed Array Technician performs the following job duties:
+
+
+ Assembles tests, troubleshoots and repairs a wide range of electronics and electronic assemblies and sub assemblies.
+
+ Assembles tests, troubleshoots and repairs a wide range of mechanical and electro/mechanical assemblies and sub assemblies.
+
+ Assembles, inspects, tests, troubleshoots and repairs complete systems in accordance with specifications, diagrams and drawings
+
+ Assembles various types of strength members in accordance with specifications, diagrams and drawings
+
+ Operate various types of environmental chambers
+
+ Applies their knowledge to provide timely testing and troubleshooting on complex products.
+
+ Advanced configuration of test equipment
+
+ Builds electronic jigs and fixtures
+
+ Employs electrostatic discharge precautions
+
+ Sets up and operates test equipment and maintains test records for operator verification
+
+ Coordinates activities with other departments to ensure continuity if required
+
+ Maintenance of test equipment
+
+ Compiles and analyses records, statistics and formulates test and failure reports as required
+
+ Applies formula and calculations as required
+
+ Manages the implementation of engineering changes including accessing information, communicating to team members and maintaining configuration of the build
+
+ Maintains line quality and output in accordance with production schedule
+
+ Recognizes and initiates investigations for workmanship and material non-conformances
+
+ Provides technical guidance and mentoring
+
+ Assists in design of jigs and fixtures
+
+ Using knowledge and experience, proposes design changes
+
+ Maintains tools and work area in a safe, orderly and clean manner
+
+
+
+
+Required Skills
+
+
+
+
+ Grade 12 with recognized community college technician/technologist qualification or equivalent experience and capability
+
+ The successful person must be able to gain the appropriate Canadian government security clearance and satisfy all requirements to be able to work on Canadian Controlled Goods projects.
+
+ Must have the willingness to work day, evening and back shift
+
+
+
+
+Desired Skills
+
+
+
+
+ Up to date knowledge of electronic materials, principles, circuit construction and quality control procedures
+
+ Good working knowledge of recognized industry workmanship standards
+
+ Soldering skills compliant with recognized industry workmanship standards
+
+ Willingness to work from verbal instructions and sketch drawings / wiring diagrams
+
+ Proven mechanical aptitude
+
+ Proficient in the use of basic software applications such as email, web browser, word processing and database operation
+
+ Excellent problem solving skills
+
+ Good communication skills (verbal and written)
+
+ Good understanding and application of lean manufacturing principles
+
+ Willingness to maintain a high level of productivity without compromising quality standards
+
+ Attitude: has a positive can-do attitude in everyday work. Is able to deal with and support change
+
+ Must have great attention to detail
+
+ Teamwork: is capable of close collaboration and cooperation with others to get the job done. Builds trust and respect among fellow team members.
+
+
+
+
+Physical Requirements
+
+
+
+
+ Willing to use hand held power tools, ( Router, Dremel , Drill, Drill press , etc)
+
+ Willing to operate overhead cranes and winches
+
+ Willing to operate common test equipment ( DMM, Oscilloscope, Measuring devices etc )
+
+
+Please note, this position resides within a bargaining unit.
+
+The above statements are intended to describe the general nature and level of work being performed by individuals assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. A review of this classification has excluded the marginal functions of the classification that are incidental to the performance of fundamental job duties. All duties and responsibilities are essential job functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities to perform this job proficiently. The requirements in this document are the minimum levels of knowledge, skills, or abilities.
+
+Ultra specialises in providing application-engineered bespoke solutions. We focus on our customers' mission critical and intelligent systems in the defence, security, critical detection &amp; control markets. Our capabilities and technologies can be found on many of the world's long-term military programmes. We employ over 4,500 employees across the globe and are listed on the London Stock Exchange. Ultra operates mainly as a Tier 3 (sub-system) and occasionally a Tier 2 systems provider, in the Maritime, C3 (Communications, Command and Control) and Cyber, military and commercial aerospace, nuclear and industrial sensors markets. We use both research and development, to provide innovative, mission specific bespoke technological solutions to our customer's most complex problems. Learn more by visiting our website: https://www.ultra.group/
+
+What's in it for you?
+
+We offer a competitive benefits package including extended health and dental, life insurance, RRSP, deferred profit sharing, optional critical illness insurance, an EFAP and student bursaries.
+
+We encourage regular manager-employee performance feedback, goal alignment and employee development through our Employee Performance Development Plan (EPDP) and offer employee education assistance to allow our people to acquire new qualifications and certifications.
+
+We are an Equal Opportunities employer and particularly welcome applications from Women, Aboriginal Persons, Persons with Disabilities and Visible Minorities.
+
+Reasonable accommodation statement: If you need an accommodation for any part of the application process, please email careers@ultra-us-gbs.com
+
+#MAR
+
+Additional location specific information available upon contact
+
+The above statements are intended to describe the general nature and level of work being performed by individuals assigned to this classification. They are not intended to be construed as an exhaustive list of all responsibilities, duties and skills required of personnel so classified. A review of this classification has excluded the marginal functions of the classification that are incidental to the performance of fundamental job duties. All duties and responsibilities are essential job functions and requirements and are subject to possible modification to reasonably accommodate individuals with disabilities to perform this job proficiently. The requirements in this document are the minimum levels of knowledge, skills, or abilities.
+
+What's in it for you?
+
+We offer a competitive benefits package including extended health and dental, life insurance, RRSP, deferred profit sharing, optional critical illness insurance, an EFAP and student bursaries.
+
+We encourage regular manager-employee performance feedback, goal alignment and employee development through our Employee Performance Development Plan (EPDP)
+
+We are an Equal Opportunities employer and particularly welcome applications from Women, Aboriginal Persons, Persons with Disabilities and Visible Minorities.
+
+
+
+",Linkedin,IT Manager - Database,,2022-03-08 16:28:38,Engineering and Information Technology,

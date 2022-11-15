@@ -1,0 +1,236 @@
+{% extends "layout.html" %}
+{% block fore %}
+active
+{% endblock %}
+{% block content %}
+    <div class="panel container-fluid">
+		<p>Please input information from <code class="highlighter-rouge">Target Employee</code> below</p>
+		<div class="bd-example">
+		<form method="POST">
+			<div class="card">
+				<div class="card-body">
+				  <p><code class="highlighter-rouge">General</code> Information</p>
+				  <div class="form-group">
+					<label for="name-input">Employee Name</label>
+					<input type="text" class="form-control" id="name-input" name="name-input" placeholder="Enter name">
+					<small id="nameHelp" class="form-text text-muted">Please enter full name = first name + last name.</small>
+				  </div>
+				  <div class="form-group">
+					<label for="age">Age</label>
+					<input type="number" class="form-control" id="age" name="age" placeholder="30" min="18" max="70">
+				  </div>
+				  <div class="form-group">
+					<label for="gender">Gender</label>
+					<select class="form-control" id="gender" name="gender">
+					  <option>Female</option>
+					  <option>Male</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="marital_status">Marital Status</label>
+					<select class="form-control" id="marital_status" name="marital_status">
+					  <option>Single</option>
+					  <option>Married</option>
+					  <option>Divorced</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="ed_field">Education Field</label>
+					<select class="form-control" id="ed_field" name="ed_field">
+					  <option>Human Resources</option>
+					  <option>Medical</option>
+					  <option>Life Sciences</option>
+					  <option>Technical Degree</option>
+					  <option>Marketing</option>
+					  <option>Other</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="ed_level">Education Level (1 = Below College, 2 = College, 3 = Bachelor's Degree, 4 = Master's Degree, 5 = Doctoral Degree or higher)</label>
+					<select class="form-control" id="ed_level" name="ed_level">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					  <option>5</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="num_companies_worked">Number of Companies Worked</label>
+					<input type="number" class="form-control" id="num_companies_worked" name="num_companies_worked">
+				  </div>
+				  <div class="form-group">
+					<label for="total_working_years">Total Working Years</label>
+					<input type="number" class="form-control" id="total_working_years" name="total_working_years">
+				  </div>
+				  <div class="form-group">
+					<label for="years_at_company">Years At Company</label>
+					<input type="number" class="form-control" id="years_at_company" name="years_at_company">
+				  </div>
+				  <div class="form-group">
+					<label for="years_curr_role">Years In Current Role</label>
+					<input type="number" class="form-control" id="years_curr_role" name="years_curr_role">
+				  </div>
+				  <div class="form-group">
+					<label for="years_since_last_promo">Years Since Last Promotion</label>
+					<input type="number" class="form-control" id="years_since_last_promo" name="years_since_last_promo">
+				  </div>
+				  <div class="form-group">
+					<label for="years_with_curr_manager">Years With Current Manager</label>
+					<input type="number" class="form-control" id="years_with_curr_manager" name="years_with_curr_manager">
+				  </div>
+				</div>
+			</div>
+			<div class="card">
+			  <div class="card-body">
+				  <p><code class="highlighter-rouge">Work Related </code> Information</p>
+				  <div class="form-group">
+					<label for="job_level">Job Level</label>
+					<select class="form-control" id="job_level" name="job_level">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					  <option>5</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="department">Department</label>
+					<select class="form-control" id="department" name="department">
+					  <option>Sales</option>
+					  <option>Research & Development</option>
+					  <option>Human Resources</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="job_role">Job Role</label>
+					<select class="form-control" id="job_role" name="job_role">
+					  <option>Sales Executive</option>
+					  <option>Research Scientist</option>
+					  <option>Laboratory Technician</option>
+					  <option>Manufacturing Director</option>
+					  <option>Healthcare Representative</option>
+					  <option>Sales Representative</option>
+					  <option>Research Director</option>
+					  <option>Human Resources</option>
+					  <option>Manager</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="business_travel">Business Travel</label>
+					<select class="form-control" id="business_travel" name="business_travel">
+					  <option>Frequent</option>
+					  <option>Rare</option>
+					  <option>None</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="distance">Distance from Home to Office</label>
+					<input type="number" class="form-control" id="distance" name="distance" placeholder="Please enter distance in km">
+				  </div>
+				  <div class="form-group">
+					<label for="overtime">Overtime</label>
+					<select class="form-control" id="overtime" name="overtime">
+					  <option>Yes</option>
+					  <option>No</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="stock">Stock Option Level(0 = No Stock Option, 1 = Low, 2 = Medium, 3 = High)</label>
+					<select class="form-control" id="stock" name="stock">
+					  <option>0</option>
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="daily_rate">Daily Rate</label>
+					<input type="number" class="form-control" id="daily_rate" name="daily_rate" placeholder="Please enter rate in CAD">
+				  </div>
+				  <div class="form-group">
+					<label for="hourly_rate">Hourly Rate</label>
+					<input type="number" class="form-control" id="hourly_rate" name="hourly_rate" placeholder="Please enter rate in CAD">
+				  </div>
+				  <div class="form-group">
+					<label for="monthly_rate">Monthly Rate</label>
+					<input type="number" class="form-control" id="monthly_rate" name="monthly_rate" placeholder="Please enter rate in CAD">
+				  </div>
+				  <div class="form-group">
+					<label for="monthly_income">Monthly Income</label>
+					<input type="number" class="form-control" id="monthly_income" name="monthly_income" placeholder="Please enter income in CAD">
+				  </div>
+				  <div class="form-group">
+					<label for="raise">Salary Raise Percentage (%)</label>
+					<input type="number" class="form-control" id="raise" name="raise" placeholder="Please enter a number between 0 and 100">
+				  </div>
+				  <div class="form-group">
+					<label for="training_times">Training Times Last Year</label>
+					<input type="number" class="form-control" id="training_times" name="training_times">
+				  </div>
+				</div>
+			</div>
+			<div class="card">
+			  <div class="card-body">
+				  <p><code class="highlighter-rouge">Work Related </code> Attributes Collected - Ratings</p>
+				  <div class="form-group">
+					<label for="job_involvement">Job Involvement (1 = Low, 2 = Medium, 3 = High, 4 = Very High)</label>
+					<select class="form-control" id="job_involvement" name="job_involvement">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="performance">Performance Rating (1 = Bad, 2 = Good, 3 = Very Good, 4 = Outstanding)</label>
+					<select class="form-control" id="performance" name="performance">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="env_satisfaction">Environment Satisfaction (1 = Low, 2 = Medium, 3 = High, 4 = Very High)</label>
+					<select class="form-control" id="env_satisfaction" name="env_satisfaction">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="rela_satisfaction">Co-worker Relationship Satisfaction (1 = Low, 2 = Medium, 3 = High, 4 = Very High)</label>
+					<select class="form-control" id="rela_satisfaction" name="rela_satisfaction">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="work_life_balance">Work Life Balance Rating (1 = Low, 2 = Medium, 3 = High, 4 = Very High)</label>
+					<select class="form-control" id="work_life_balance" name="work_life_balance">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					</select>
+				  </div>
+				  <div class="form-group">
+					<label for="job_satisfaction">Job Satisfaction (1 = Low, 2 = Medium, 3 = High, 4 = Very High)</label>
+					<select class="form-control" id="job_satisfaction" name="job_satisfaction">
+					  <option>1</option>
+					  <option>2</option>
+					  <option>3</option>
+					  <option>4</option>
+					</select>
+				  </div>
+				</div>
+			</div>
+		  <button type="submit" class="btn btn-primary">Submit</button>
+		</form>
+		</div>
+    </div>
+{% endblock %}

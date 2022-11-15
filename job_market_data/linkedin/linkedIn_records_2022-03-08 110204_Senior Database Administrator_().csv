@@ -1,0 +1,1308 @@
+,id,job_title,job_type,job_exp,company,industries,location,description,source,search_kw,expected_salary,post_date,job_function,remote
+0,2957903083,Senior Oracle Database Administrator,Full-time,Not Applicable,BMO Financial Group,Banking and Financial Services,"Toronto, ON","
+
+
+
+Address
+
+
+
+3550 Pharmacy Ave
+
+
+
+Job Family Group
+
+
+
+Technology
+
+Monitors, restores service, changes, supports, and handles day-to-day activities 7/24/365 required to run the mission critical systems for the company ensuring business service levels are met and environments are managed. Monitors and ensures service restoration of infrastructure, applications (online and offline), and security, while meeting service level agreements. Provides the Help/Service Desk support, as well as coordinates and facilitates Incident Management, deploys changes to the production environment, and engages 3rd party providers contracted to the Bank during an incident. Provides immediate response to production program or system problems. Participates in testing cycles to ensure the ability to deploy and operability of infrastructure and applications. Deploys, implements, provisions applications and infrastructure per deployment plans and infrastructure build guides.
+
+
+
+Provides technical expertise and oversight on the production floor, understanding the full process requirements (compliance, equipment, regulatory) in order to best understand and resolve production issues.
+
+Manages complexity across business value, technology and interaction models.
+
+Recommends and implements solutions based on analysis of issues and implications for the business.
+
+Identifies emerging issues and trends to inform decision-making.
+
+Conducts independent analysis and assessment to resolve strategic issues.
+
+Establishes deep relationships at all levels within IT and business units, to effectively collaborate in business strategy.
+
+Monitors and tracks performance, and addresses any issues.
+
+Breaks down strategic problems, and analyses data and information to provide insights and recommendations.
+
+Participates in both internal and external regulatory inspections.
+
+Works with other operations personnel to develop and implement the counter-measures necessary to improve production and equipment reliability as well as the compliance posture of the team.
+
+Provides end to end technology support including computer, applications, network and storage, and root-cause analysis etc.
+
+Drives and/or promotes new processes, systems, technology, and operations and expanded capabilities for performance, with the flexibility to align to the unique requirements of the project teams and deliverables.
+
+Proactively monitors system performance and identifies operational improvements, in ensuring smooth and consistent customer and business partner delivery.
+
+Supports deployment activities, managing implementation issues to resolution.
+
+Provides initial triage, investigation and ensures fast turnaround times on issue/incident resolution.
+
+Monitors technical infrastructure, applications and/or business transactions through automated systems and instrumentation across the environment.
+
+Provides inbound call assistance to end-users for application, technical, and IMACD needs leveraging the knowledge base and/or run books available.
+
+Collaborates and engages with the appropriate areas across the bank.
+
+Develops or helps to develop the knowledge assets required for the operation.
+
+Promotes adherence to standards and industry best practices.
+
+Develops an understanding of organizational interactions and complexity to engage with the appropriate matrix areas.
+
+Identifies opportunities to strengthen the operational capability, such as: sharing expertise to promote technical development, mentoring employees, building communities of practice and networks across technology.
+
+Stays abreast of industry technical and business trends through participation in professional associations, practice communities &amp; individual learning.
+
+Focus is primarily on business/group within BMO; may have broader, enterprise-wide focus.
+
+Provides specialized consulting, analytical and technical support.
+
+Exercises judgment to identify, diagnose, and solve problems within given rules.
+
+Works independently and regularly handles non-routine situations.
+
+Broader work or accountabilities may be assigned as needed.
+
+Database administration using Oracle technologies and products, including Oracle 12c/18c/19C, Oracle RAC, ASM, RMAN backup/recovery, Data Compression and encryption, Oracle Data Guard, Oracle Golden Gate and Oracle EM
+
+Experience with physical database designs, operation and administration of database management system, including database optimization, performance tuning, backup and recovery, partitioning, compression, and security
+
+Experience with database support including upgrades, migration, patching (security and bug fix), and hardening. 
+
+Capacity planning and data conversion in a large operation with multiple environments.
+
+Strong understanding of project deployment cycle, and end-to-end project deployment, including technical documentation.
+
+Database monitoring tool (OEM, Dynatrace… etc.) and enforcing database rules and alerts]
+
+
+
+
+Qualifications
+
+
+
+
+
+Typically 4-7 years of work experience in IT or business environment and/or BS/BA or MBA/MS in computer science, engineering, information systems, math or business.
+
+Understanding of Information Technology operating processes used for systems to ensure effective delivery including but not limited to IT Operations mandatory operating standards for monitoring, logging, and alerting.
+
+Knowledge of support and operations practice, concepts, and technology obtained through formal training and/or work experience.
+
+Technical and/or business functional knowledge of systems, tools, timing, and dependencies.
+
+Deep knowledge and technical proficiency gained through extensive education and business experience.
+
+Verbal &amp; written communication skills - In-depth.
+
+Collaboration &amp; team skills - In-depth.
+
+Analytical and problem solving skills - In-depth.
+
+Influence skills - In-depth.
+
+Data driven decision making - In-depth.
+
+
+
+We’re here to help
+
+
+At BMO we are driven by a shared Purpose: Boldly Grow the Good in business and life. It calls on us to create lasting, positive change for our customers, our communities and our people. By working together, innovating and pushing boundaries, we transform lives and businesses, and power economic growth around the world.
+
+As a member of the BMO team you are valued, respected and heard, and you have more ways to grow and make an impact. We strive to help you make an impact from day one – for yourself and our customers. We’ll support you with the tools and resources you need to reach new milestones, as you help our customers reach theirs. From in-depth training and coaching, to manager support and network-building opportunities, we’ll help you gain valuable experience, and broaden your skillset.
+
+To find out more visit us at https://jobs.bmo.com/ca/en.
+
+BMO is committed to an inclusive, equitable and accessible workplace. By learning from each other’s differences, we gain strength through our people and our perspectives. Accommodations are available on request for candidates taking part in all aspects of the selection process. To request accommodation, please contact your recruiter.
+      
+",Linkedin,Senior Database Administrator,,2022-03-07 22:37:50,Information Technology,
+1,2945773515,Data Administrator,Full-time,Associate,OneComply Inc.,Software Development and Gambling Facilities and Casinos,"Vancouver, BC","
+
+
+
+About OneComply:
+
+
+OneComply (https://onecomply.com/) is challenging, with decades of experience, the billion-dollar industry of state regulatory compliance. Leveraging technical innovation and strong business analytics, OneComply streamlines the regulatory compliance and licensing process through intuitive data collection, tracking, and document automation. Our management team has an extensive track record in building great technology companies. With a rapidly growing client base, we are excited about our future.
+
+
+
+
+
+The Role:
+
+
+This role is perfect for you if you are extremely detail oriented, and love predictability and repetitive tasks.
+
+
+
+
+The Data Administrator is a critical role that connects data required to complete regulatory forms, Onecomply’s database, and our OmniFill automation technology. Your daily work will include auditing forms and analyzing datasets to ensure they are correctly pulled from OneComply’s database, and working alongside team members to increase efficiencies along the way. You will work closely with the Application Analysts, the Head of Compliance, and the development team.
+
+
+
+
+
+What You'll Do:
+
+
+
+Audit applications submitted by Application Analyst to ensure accuracy meets client standards
+
+Working through changes required to ensure forms are accurate
+
+Implementing changes in PDF tagging language to increase efficiency in audit processes
+
+Manage seed datasets to meet data testing requirements
+
+Communicate with Application Teams on data deficiencies for remediation
+
+
+
+
+
+
+Essential Knowledge /Experience:
+
+
+
+Strong attention to detail and ability to work within data, administration, and technical systems
+
+Love for all things analysis - you are a key team member between compliance and tech. so your input is crucial
+
+Exceptionally high level of accuracy - one number off can make a big impact
+
+Comfortable in fast paced environment as we are a growing technology start up
+
+
+
+
+
+
+ Benefits and Perks:
+
+
+
+Competitive salary
+
+Extended Health Benefits
+
+We encourage a healthy work-life balance and offer flexible schedules, a generous vacation policy
+
+Generous parental leave plan
+
+Ability for hybrid office and work from home schedule
+
+
+
+
+
+
+Please apply immediately as we are interviewing asap.
+
+
+
+",Linkedin,Senior Database Administrator,,2022-03-08 00:26:21,"Information Technology, Quality Assurance, and Administrative",
+2,2955724174,Database Administrator,Contract,Mid-Senior level,Quarry Consulting,IT Services and IT Consulting,Greater Ottawa Metropolitan Area,"
+
+
+
+Title
+: Database Administrator
+
+
+Duration
+: 6 months with possibility of extension
+
+
+Location
+: Ottawa, On
+
+
+
+
+
+Background/Overview (including Statement of Work)
+
+
+Under the supervision of the IT project manager, the database administrator (DBA) will be
+
+responsible for the management of databases at the CECCE and the proper functioning of the
+
+student management system. He or she also participates in the development, implementation,
+
+and proper functioning of the CECCE's information management systems. The main
+
+responsibilities are:
+
+- ensure the proper functioning of the databases, their updates, and their availability.
+
+- plan and make the necessary backup copies of databases.
+
+- ensure after each restoration of the availability of databases at the redundancy site
+
+- keep the database management systems up to date.
+
+- Work in close collaboration with the programming team for the design of logical database
+
+models and the creation of structures and objects necessary for the implementation of
+
+computer applications.
+
+- monitoring the physical storage of data and collaborating as needed with system
+
+administrators to allocate the resources necessary for the proper functioning of database
+
+systems.
+
+- actively participate in the planning of data migrations between systems.
+
+- building and creating PL/SQL and T-SQL scripts (stored procedures, functions, packages, etc.).
+
+- analyze and optimize the performance of the database management system, Oracle, and SQL
+
+server.
+
+- extract and analyze data from different computer applications to meet the needs of other
+
+departments and schools.
+
+- develop and maintain up-to-date data exchange procedures between the Council and the
+
+various partners such as Xello, Desire 2 Learn, CESAP, CFORP.
+
+- produce extracts to meet the needs of the various partners, ministry of education, health
+
+offices, school photographers, etc.; - create, among other things, Jasper Soft reports.
+
+- take the necessary measures to solve computer problems arising from his work.
+
+
+
+
+
+
+
+
+
+
+
+Mandatory Requirements
+
+
+1) College diploma in computer science, programming, or a combination of education and
+
+relevant experience deemed equivalent by the CECCE.
+
+2) More than five (5) years of experience as a relational database administrator such as
+
+Oracle, Microsoft SQL Server, or others.
+
+3) Experience in relational database administration such as Oracle, MS SQL Server, or
+
+others.
+
+4) Experience with Oracle's PL/SQL and SQL Server's T-SQL
+
+5) Experience with report generation tools such as Jasper Soft, Crystal Report or others.
+
+6) Good knowledge of the Windows server environment.
+
+7) Experience in project management.
+
+
+8) Bilingual i.e., French, and English both spoken and written.
+
+
+
+",Linkedin,Senior Database Administrator,,2022-03-08 17:57:45,Engineering and Information Technology,
+3,2957887679,Senior Oracle DBA,Full-time,Associate,CGI,"IT Services and IT Consulting, Software Development, and Financial Services","Toronto, ON","
+
+
+Job Description
+
+
+Job Description Senior Oracle DBA
+
+Position Description
+
+CGI, one of the largest IT and business consulting services firms globally, is at the forefront of transforming digital experiences. Through practical and strategic innovations, we are helping drive value and greater efficiencies into commercial and government organizations around the world. We are growing our team and are looking to establish a center of excellence to deliver the best in class service to our many different clients.
+
+Your future duties and responsibilities
+
+
+ Seeking a talented Senior Oracle DBA. The ideal candidate must have 7+ years of Oracle DBA and some PL/SQL experience along with good communication, teamwork, and interpersonal skills.
+
+ Responsible for ensuring maximum up-time with maximum throughput to meet established service-level agreements (SLAs), ensuring backup integrity, and providing support to development and application support groups as needed.
+
+ Installation, upgrades, daily support, performance tuning (10g/11g/12c), rman backup/recovery/duplication, monitoring primary+standby databases
+
+ Monitor database and server performance and identify current and future potential bottle-necks
+
+ You will assist in the development of processes, procedures, and jobs to monitor and/or automate tasks required to maintain databases. Your duties will also include the gathering and communicate database performance metrics for internal and external audiences.
+
+
+
+
+Required Qualifications To Be Successful In This Role
+
+
+Required Level of Education:
+
+
+ Bachelor's degree in Computer Science, Information Technology, or closely-related
+
+ Oracle certified Professional Oracle 10 or 11 OCP (preferred)
+
+
+
+Must Have - Technical Skills, minimum 7 years related experience in the following areas:
+
+
+ Experience supporting Oracle in a production environment up to version 12c,11gR2 on Unix/Linux
+
+ Experience/ Working Knowledge about Oracle Exadata and Exadata Resource Management (IORM)
+
+ Experience/Working Knowledge about Oracle Encryption Offerings ( at Rest, in Transit, Vault Server)
+
+ Extensive performance Tuning using OEM/AWR/ADDM/ASHRPT
+
+ Backup and recovery and RMAN (Must Have)
+
+ Oracle ASM, Grid Infrastructure, RAC (preferred skills)
+
+ Upgrades and Patches
+
+ Oracle Enterprise Manager Grid Control (OEM 10g,12c &amp; 13c)
+
+ Strong familiarity with Unix/Linux command line interface
+
+ Significant experience with shell scripting on Unix/Linux
+
+ Tune database code (packages, procedures, functions, triggers, etc) for the application as required
+
+ Provide support to the customers/developers to resolve their technical problems with the data and/or database
+
+ Minimum of 7 years of work experience as a DBA in a team setting, providing 24/7 support to mission-critical applications and databases
+
+ Korn shell scripting essential (for DBA related monitoring)
+
+
+
+Good to Have –
+
+
+ Knowledge of 18c,19c &amp; Oracle Cloud
+
+ Familiarity with ZFS
+
+
+
+Soft Skills:
+
+
+ Good communication, teamwork, and interpersonal skills.
+
+ Able to professionally represent the DBA activities of our product within our organization.
+
+ Capable of formulating policies and procedures for DBA activities.
+
+ Continuously look to improve data management processes.
+
+ Work with minimal supervision.
+
+
+
+Other Requirements (e.g. travel, shift work, on-call duty, overtime):
+
+
+ Evening and weekend work is occasionally needed to support the client environments.
+
+
+
+
+Build your career with us.
+
+
+It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change—supporting our clients’ digital journeys and offering our professionals exciting career opportunities.
+
+At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.
+
+Be part of building one of the largest independent technology and business services firms in the world.
+
+Learn more about CGI at www.cgi.com.
+
+No unsolicited agency referrals please.
+
+CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodations for people with disabilities in accordance with provincial legislation. Please let us know if you require a reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
+
+
+Skills
+
+
+
+ Database 
+
+ Database Administration 
+
+ Financial Services 
+
+ Linux 
+
+ Oracle 
+
+ Unix
+
+
+
+",Linkedin,Senior Database Administrator,,2022-03-07 22:06:52,Information Technology,
+4,2954800316,DB2 Database Administrator,Full-time,Not Applicable,IBM,Computer Hardware Manufacturing,"Halifax, NS","
+
+        503289BR
+
+
+Introduction
+
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+
+Your Role and Responsibilities
+
+
+
+In Addition, Our Focus On Our Team Is Unparalleled As Demonstrated By The Following
+
+
+IBM's state-of-the-art Client Innovation Centre (CIC) opened in Nova Scotia in March 2013 and is the first of its kind in Canada. The Centre weaves together IBM’s business insights and industry-leading software portfolio and is ideally suited for any client that needs flexible access to emerging or niche skills that may not be cost effective to grow internally.
+
+
+
+The CIC NS is one of IBM’s highest performing delivery centres worldwide – for retention, client satisfaction and utilization. Our employees are empowered to stay and grow within IBM.
+
+We are very focused on continuous skill development – staff training is our third largest annual Centre investment. Employees are immersed in a culture of learning and constant growth
+
+Investment in key partnership with universities, government and private sector groups which has resulted in IBM having a key influencing role in Nova Scotia’s ICT industry, especially in talent development.
+
+
+
+We are currently recruiting for a DBA DB2 support. If you are on top of your profession and possess the following key skills, we invite you to apply to our openings.
+
+The following is a summary of desired skills and pre-requisites for this position
+
+
+
+5+ yrs of experience in offering DBA DB2 support for application production support , maintenance &amp; development team.
+
+Ensure integrity, availability and performance of DB2 database systems by providing technical support and maintenance.
+
+Monitor database performance and recommend improvements for operational efficiency.
+
+DB2 Experience including patching and upgrades
+
+Strong knowledge of SQL
+
+Understanding of internal dictionary views and tables
+
+Strong performance tuning
+
+Strong understanding of backup/recovery procedures
+
+Good working Unix knowledge –including shell scripting and OS-level troubleshooting
+
+Experience with large databases and clustered environments
+
+
+
+
+Nice To Have Skills
+
+
+
+
+DB2 Certified DBA certification
+
+University or post-secondary education
+
+
+
+
+Required Technical and Professional Expertise
+
+
+
+
+Strong spoken and written English language skills
+
+Prior experience in a consulting environment dealing with Sev1 client calls
+
+Participation in on-call rotation/off hours deployment
+
+
+
+
+Preferred Technical And Professional Expertise
+
+
+
+
+Senior level –5+ years
+
+
+
+Must have the ability to work in Canada without sponsorship.
+
+
+About Business Unit
+
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+This role requires you to be fully vaccinated against COVID-19 prior to your start date. Full vaccination refers to receiving dosage of COVID-19 vaccines that provide full protection in accordance with Canada Public Health and WHO guidance (full series of a 2 dose vaccine plus 14 days or a one dose vaccine plus 14 days from the last dose). Proof of vaccination status will be required. Booster vaccination requirements may be required. If you are unable to be vaccinated due to medical or religious reasons, we offer accommodations in accordance with applicable law.
+
+
+Your Life @ IBM
+
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+
+About IBM
+
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+
+Location Statement
+
+
+This role will involve working with technology that is covered by Export Regulations sanctions. If you are a Foreign National from any of the following US sanctioned countries (Cuba, Iran, North Korea, and Syria) on a work permit, you are not eligible for employment in this position.
+
+
+Being You @ IBM
+
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+      
+",Linkedin,Senior Database Administrator,,2022-03-08 01:50:50,Other,
+5,2954799141,DB2 DBA Administrator - Ottawa,Full-time,Not Applicable,IBM,Computer Hardware Manufacturing,"Ottawa, ON","
+
+        530144BR
+
+
+Introduction
+
+
+At IBM, work is more than a job - it's a calling: To build. To design. To code. To consult. To think along with clients and sell. To make markets. To invent. To collaborate. Not just to do something better, but to attempt things you've never thought possible. Are you ready to lead in this new era of technology and solve some of the world's most challenging problems? If so, lets talk.
+
+
+Your Role and Responsibilities
+
+
+Provide support for a 24x7 major PeopleSoft Payroll implementation
+
+Scheduled activities DB2 Database monitoring, Performance tuning, index and tables re-org, reporting, co-ordination of maintenance activities
+
+Ad-hoc / On-call activities include incident and problem analysis: review technical details, plan, propose and execute solution on non-prod and prod databases
+
+This position will report to Infrastructure Lead, Keep lead posted for specific planned or ad-hoc activities on a project of 150+ team members.
+
+DBA Admin is expected to quickly learn, follow and implement: client's business processes and priorities; team structure and responsibilities; system's overall architecture &amp; processes (including batch, online &amp; integration flows and sequences), escalation and communication procedures.
+
+
+Required Technical and Professional Expertise
+
+
+
+
+Experience in steady-state maintenance / sustainment / operations of a large Enterprise Resource Planning (ERP) implementation
+
+Experience in planning of complex activities, execution of technical solution on DB2.
+
+Strong communication skills to technical, functional, and development team
+
+Technical experience with DB2 mandatory. Experience with Oracle, PeopleSoft 9.1 and 9.2 and People Tools 8.5x preferred.
+
+Ability to work rapidly under pressure, provide a solution, and strong skills in shell scripting, experience with Tax updates, applying patches on DB. Experience with PeopleSoft, WebLogic, security etc. added asset.
+
+Canadian Federal Government Security Clearance – Enhanced Reliability Status or higher
+
+5-7 years of experience with DB2
+
+
+
+
+Preferred Technical And Professional Expertise
+
+
+
+
+Experience/understanding of Payroll systems including process and data flows and dependencies
+
+Experience/understanding of PeopleSoft ERP
+
+Experience/understanding of federal public sector client, culture and business practices
+
+Strong communication and presentation skills to technical, functional and Dev team
+
+Discipline, diligence, and follow-up on multiple on-going activities and priorities
+
+Experience/understanding of databases (DB2 or Oracle) and PeopleSoft
+
+Experience in planning of complex activities, then collaborating and leading execution
+
+Ability to work rapidly under pressure to gather information, provide a solution, and co-ordinate teams / guide the solution to completion
+
+Experience/understanding of federal / Provincial public sector client, culture and business practices
+
+
+
+Must have the ability to work in Canada without sponsorship.
+
+
+About Business Unit
+
+
+IBM Services is a team of business, strategy and technology consultants that design, build, and run foundational systems and services that is the backbone of the world's economy. IBM Services partners with the world's leading companies in over 170 countries to build smarter businesses by reimagining and reinventing through technology, with its outcome-focused methodologies, industry-leading portfolio and world class research and operations expertise leading to results-driven innovation and enduring excellence.
+
+This role requires you to be fully vaccinated against COVID-19 prior to your start date. Full vaccination refers to receiving dosage of COVID-19 vaccines that provide full protection in accordance with Canada Public Health and WHO guidance (full series of a 2 dose vaccine plus 14 days or a one dose vaccine plus 14 days from the last dose). Proof of vaccination status will be required. Booster vaccination requirements may be required. If you are unable to be vaccinated due to medical or religious reasons, we offer accommodations in accordance with applicable law.
+
+
+Your Life @ IBM
+
+
+Are you craving to learn more? Prepared to solve some of the world's most unique challenges? And ready to shape the future for millions of people? If so, then it's time to join us, express your individuality, unleash your curiosity and discover new possibilities.
+
+Every IBMer, and potential ones like yourself, has a voice, carves their own path, and uses their expertise to help co-create and add to our story. Together, we have the power to make meaningful change – to alter the fabric of our clients, of society and IBM itself, to create a truly positive impact and make the world work better for everyone.
+
+It's time to define your career.
+
+
+About IBM
+
+
+IBM’s greatest invention is the IBMer. We believe that through the application of intelligence, reason and science, we can improve business, society and the human condition, bringing the power of an open hybrid cloud and AI strategy to life for our clients and partners around the world.
+
+Restlessly reinventing since 1911, we are not only one of the largest corporate organizations in the world, we’re also one of the biggest technology and consulting employers, with many of the Fortune 50 companies relying on the IBM Cloud to run their business.
+
+At IBM, we pride ourselves on being an early adopter of artificial intelligence, quantum computing and blockchain. Now it’s time for you to join us on our journey to being a responsible technology innovator and a force for good in the world.
+
+
+Location Statement
+
+
+For additional information about location requirements, please discuss with the recruiter following submission of your application.
+
+
+Being You @ IBM
+
+
+IBM is committed to creating a diverse environment and is proud to be an equal opportunity employer. All qualified applicants will receive consideration for employment without regard to race, color, religion, gender, gender identity or expression, sexual orientation, national origin, genetics, pregnancy, disability, age, veteran status, or other characteristics. IBM is also committed to compliance with all fair employment practices regarding citizenship and immigration status.
+      
+",Linkedin,Senior Database Administrator,,2022-03-08 01:45:06,Other,
+6,2959553594,Oracle/SQL Database Administrator - New Grad,Full-time,Associate,CGI Group Inc.,IT Services and IT Consulting,"Regina, SK","
+
+
+
+Position Description
+
+
+
+This is a great opportunity to join CGI in Regina to provide leading IT services to our clients. New graduate positions are available for Junior Oracle/SQL Database Administrator with entry-level experience in Data Analytics. Those who have applied to earlier postings are encouraged to re-apply.
+
+
+
+Your Future Duties And Responsibilities
+
+
+
+Your future duties and responsibilities:
+
+
+ Managing, monitoring and maintaining Oracle and SQL databases
+
+ Making requested changes, updates and modifications to database structure and data
+
+ Ensuring database security, integrity, stability and system availability
+
+ Maintaining database backup and recovery infrastructure
+
+
+
+
+Required Qualifications To Be Successful In This Role
+
+
+
+
+ Being a new graduate of IT related program (less than 1 year after graduation) in Canada
+
+ Proven record of academic success
+
+ Co-Op or field experience will be an asset
+
+ Excellent written and oral communications skills
+
+ Great attention to detail
+
+ Critical thinking skills including the ability to tackle a problem and identify solution options
+
+ Works well independently and within a team environment
+
+ LI-AJ1
+
+
+
+
+What You Can Expect From Us
+
+
+
+Build your career with us.
+
+It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change-supporting our clients' digital journeys and offering our professionals exciting career opportunities.
+
+At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.
+
+Be part of building one of the largest independent technology and business services firms in the world.
+
+Learn more about CGI at www.cgi.com.
+
+No unsolicited agency referrals please.
+
+CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodations for people with disabilities in accordance with provincial legislation. Please let us know if you require a reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
+      
+",Linkedin,Senior Database Administrator,,2022-03-08 16:18:29,Information Technology,
+7,2919027100,RDS Custom for Oracle DBA II,Full-time,Mid-Senior level,Amazon,"IT Services and IT Consulting, Software Development, and Internet Publishing","Vancouver, BC","
+
+
+
+Job Summary
+
+
+
+
+DESCRIPTION
+
+
+The Relational Database Service (RDS) is one of the fastest growing AWS businesses, providing and managing relational databases as a service. RDS is seeking talented database engineers who will innovate and engineer solutions in the area of database technology.
+
+The Database Engineering team is actively engaged in the ongoing database engineering process, partnering with development groups, and providing deep subject matter expertise to feature design, and as an advocate for bringing forward and resolving customer issues.
+
+We are looking for individuals who are enthusiastic about applying innovative ideas to solving real-world customer problems and who are passionate about working with customers. In this role you will act as the “Voice of the Customer” helping software engineers understand how customers use databases. you will be responsible for translating customers' needs and use cases into technical innovation and robust engineering solutions on AWS.
+
+*About Us*
+
+*Inclusive Team Culture*
+
+Here at AWS, we embrace our differences. We are committed to furthering our culture of inclusion. We have ten employee-led affinity groups, reaching 40,000 employees in over 190 chapters globally. We have innovative benefit offerings, and host annual and ongoing learning experiences, including our Conversations on Race and Ethnicity (CORE) and AmazeCon (gender diversity) conferences. Amazon’s culture of inclusion is reinforced within our 14 Leadership Principles, which remind team members to seek diverse perspectives, learn and be curious, and earn trust.
+
+*Work/Life Balance*
+
+Our team puts a high value on work-life balance. It isn’t about how many hours you spend at home or at work; it’s about the flow you establish that brings energy to both parts of your life. We believe striking the right balance between your personal and professional life is critical to life-long happiness and fulfillment. We offer flexibility in working hours and encourage you to find your own balance between your work and personal lives. This position involves on-call responsibilities, typically for one day a month. We don’t like getting paged in the middle of the night or on the weekend, so we work to ensure that our systems are fault tolerant. When we do get paged, we work together to resolve the root cause and prioritize fixes to reduce operational load on team.
+
+*Mentorship &amp; Career Growth*
+
+Our team is dedicated to supporting new members. We have a broad mix of experience levels and tenures, and we’re building an environment that celebrates knowledge sharing and mentorship. Our senior members enjoy one-on-one mentoring and thorough, but kind, code reviews. We care about your career growth and strive to assign projects based on what will help each team member develop into a better-rounded engineer and enable them to take on more complex tasks in the future.
+
+
+
+
+Basic Qualifications
+
+
+
+
+ Deep knowledge and experience designing and maintaining Oracle relational databases.
+
+ Experience working directly with customers, resolving database, systems, and infrastructure-related issues, and providing systems architecture leadership.
+
+ Working knowledge of relational database internals (locking, consistency, serialization, recovery paths).
+
+ Working knowledge of at least one scripting language (shell, Python, Perl) and a procedural language for at least one database (PL/SQL, T-SQL etc.).
+
+ Systems engineering experience, including Linux performance, memory management, I/O tuning, configuration, security, networking, clusters, and troubleshooting.
+
+
+
+
+Preferred Qualifications
+
+
+
+
+ Experience with relational databases including MySQL, Postgres or SqlServer
+
+ Experience analyzing issues holistically, from the application tier through the database, down to the storage.
+
+ Broad awareness of customer workloads and use cases, including performance, availability, and scalability.
+
+ Experience building and maintaining complex mission-critical production database systems.
+
+ Familiarity with at least one compiled language (Java, C, C++), experience automating tasks.
+
+ Familiarity with Amazon Web Services (EC2, EBS, S3, etc.).
+
+
+Amazon is committed to a diverse and inclusive workplace. Amazon is an equal opportunity employer and does not discriminate on the basis of race, national origin, gender, gender identity, sexual orientation, disability, age, or other legally protected status. If you would like to request an accommodation, please notify your Recruiter.
+
+
+
+Company
+ - Amazon Dev Centre Canada ULC
+
+Job ID: A1922208
+      
+",Linkedin,Senior Database Administrator,,2022-03-08 13:36:09,"Information Technology, Consulting, and Engineering",
+8,2957841596,Oracle DBA,Full-time,Mid-Senior level,Tata Consultancy Services,IT Services and IT Consulting,"Toronto, ON","
+
+
+• Should have strong development experience in building stored procedures, views, materialized views and parallelism in Oracle
+
+• Strong programming, analytical and logical skills
+
+• Should have experience in Oracle script deployment
+
+• Having Oracle admin knowledge will be a plus
+
+• Should have basic development knowledge in SQL Server
+
+• Should have knowledge in using Oracle SQL developer tools, TOAD, SQL Server Management studio
+
+
+",Linkedin,Senior Database Administrator,,2022-03-07 20:35:49,Project Management and Information Technology,
+9,2945744955,Mongo Database Administrator,Full-time,Mid-Senior level,Tata Consultancy Services,IT Services and IT Consulting,"Toronto, ON","
+
+
+• Mongo DB experience including backup, restore etc.
+
+• Deployment experience in Kubernetes environment
+
+• Good experience with Kubernetes &amp; OC tools
+
+• Should have worked on Mongo Ops Manager, AWS, Azure
+
+• Good experience on Openshift, Docker containers
+
+• Good experience on python and bash scripting
+
+• GIT hub knowledge - intermediate level
+
+• Experience on LDAP, TLS/SSL layers
+
+• Experience or Knowledge in Azure Arc
+
+• DevOps knowledge is add-on
+
+• Amazon S3 knowledge is a plus
+
+
+",Linkedin,Senior Database Administrator,,2022-03-07 22:19:22,Engineering and Information Technology,
+10,2959553703,Oracle/SQL Database Administrator - New Grad,Full-time,Associate,CGI Group Inc.,IT Services and IT Consulting,"Calgary, AB","
+
+
+
+Position Description
+
+
+
+This is a great opportunity to join CGI in Calgary to provide leading IT services to our clients. New graduate positions are available for Junior Oracle/SQL Database Administrator with entry-level experience in Data Analytics. Those who have applied to earlier postings are encouraged to re-apply.
+
+
+
+Your Future Duties And Responsibilities
+
+
+
+
+ Managing, monitoring and maintaining Oracle and SQL databases
+
+ Making requested changes, updates and modifications to database structure and data
+
+ Ensuring database security, integrity, stability and system availability
+
+ Maintaining database backup and recovery infrastructure
+
+
+
+
+Required Qualifications To Be Successful In This Role
+
+
+
+Required qualifications to be successful in this role:
+
+
+ Being a new graduate of IT related program (less than 1 year after graduation) in Canada
+
+ Proven record of academic success
+
+ Co-Op or field experience will be an asset
+
+ Excellent written and oral communications skills
+
+ Great attention to detail
+
+ Critical thinking skills including the ability to tackle a problem and identify solution options
+
+ Works well independently and within a team environment
+
+ LI-AJ1
+
+
+
+
+What You Can Expect From Us
+
+
+
+Build your career with us.
+
+It is an extraordinary time to be in business. As digital transformation continues to accelerate, CGI is at the center of this change-supporting our clients' digital journeys and offering our professionals exciting career opportunities.
+
+At CGI, our success comes from the talent and commitment of our professionals. As one team, we share the challenges and rewards that come from growing our company, which reinforces our culture of ownership. All of our professionals benefit from the value we collectively create.
+
+Be part of building one of the largest independent technology and business services firms in the world.
+
+Learn more about CGI at www.cgi.com.
+
+No unsolicited agency referrals please.
+
+CGI is an equal opportunity employer. In addition, CGI is committed to providing accommodations for people with disabilities in accordance with provincial legislation. Please let us know if you require a reasonable accommodation due to a disability during any aspect of the recruitment process and we will work with you to address your needs.
+      
+",Linkedin,Senior Database Administrator,,2022-03-08 16:20:43,Information Technology,
+11,2954748422,Database Developer/Data Engineer (DB2),Full-time,Entry level,mthree,"Capital Markets, Banking, and International Trade and Development","Montreal, QC","
+
+
+
+About the job
+
+
+
+
+
+Database Developer / Data Engineer (DB2) with Python, Linux, Unix, SQL.
+
+
+
+
+Here at mthree, we pair talented graduates with leading global businesses. We’re always on the lookout for ambitious graduates to join the mthree Alumni Graduate Program, kick-starting your tech career within an entry-level Software Developer role and working onsite with a leading fintech organization in Montreal, Quebec.
+
+
+
+
+Our 24-month graduate program begins with 4-8 weeks of paid training and career coaching, where you’ll learn everything you need to hit the ground running as a software developer.
+
+
+
+
+After you've completed the paid training, you'll have the opportunity to fast-track your career at a global investment bank or leading tech company.
+
+
+
+
+
+What you’ll do:
+
+
+If successful, you’ll work with a leading Investment Bank, located in Montreal, as a software developer, designing, developing and maintaining complex applications in a global team environment.
+
+
+
+
+
+Introduction:
+
+
+This is a data Engineer/DB2 developer role in the team responsible for developing on the firm's Trade Capture data stores that holds the transactional bigdata for real time and archive processing and getting it into the archives and data lake.
+
+
+
+
+The global team consists of highly technical team members who are adaptable to both hands on development and project management. We deliver multiple projects for multiple business areas in parallel. The business owners and subject matter experts will be globally distributed, making communication and pro-active to be important. You will be expected to work closely with our operations partners on requirements for projects.
+
+
+
+
+The development will be performed using an agile methodology which is based on scrum (time boxing, daily scrum meetings, retrospectives, etc.) and XP (continuous integration, refactoring, unit testing, etc.) best practices. Candidates must therefore be able to work collaboratively, demonstrate good ownership and be able to work well in teams.
+
+
+
+
+
+Primary responsibilities include:
+
+
+
+Translate business requirement into queries against a set of relational tables and produce reporting based on the requirements.
+
+Design and build reporting layer from different data sources and act as a SPOC for user queries
+
+Database and ETL development, including stored procedures, queries, performance tuning etc., using python, SQL and ETL tools such as Informatica.
+
+Efficient and clean automation script (using Python etc.) as part of the ETL process.
+
+The current global team members are all very skilled in domain modeling, database design, big data, Java and messaging so this is an excellent opportunity to play a key role in the growing team.
+
+
+
+
+
+
+Technical Skills Requirement
+
+
+
+Strong relational database skills especially with DB2/Sybase or/and Greenplum.
+
+Knowledge of Hadoop/Spark is desirable.
+
+Create high quality and optimized stored procedures and queries
+
+Experience with Power Designer or some similar modeling tool.
+
+Strong with scripting language such as Python and Unix / K-Shell
+
+Strong knowledge base of relational database performance and tuning such as: proper use of indices, database statistics/reorgs, de-normalization concepts.
+
+Experience with data mining is a big plus
+
+Familiar with lifecycle of a trade and flows of data in an investment banking operation.
+
+Experienced in Agile development process
+
+
+
+
+
+
+What you need:
+
+
+
+Bachelor of Science in Computer Science
+
+OOP development experience
+
+Solid software engineering principles (data structures, OO, design patterns, multithreading)
+
+Good trouble shooting and debugging skills
+
+Working knowledge of database concepts (SQL, stored procs, schema design)
+
+Understanding of the formal software development lifecycle (SDLC)
+
+Understanding of test-driven development
+
+
+
+
+
+
+What you’ll receive:
+
+
+
+Fully paid, in-depth and interactive training with a diverse group of like-minded graduates, delivered by experts with working knowledge of the field.
+
+A competitive graduate salary
+
+Pay increases every 6 months
+
+A flexible benefits package including gym membership
+
+Ongoing training and pastoral care
+
+Invaluable industry experience and the opportunity to start a career in a desirable and competitive industry
+
+
+
+
+
+
+DIVERSITY:
+
+
+
+We take great pride in celebrating the diversity of each and every individual who contributes to making mthree the company it is today and will be in the future. We value diversity both within mthree and with our partner companies, and we’re proud to provide an environment where all our colleagues can flourish by promoting a strong culture of equality but most importantly, inclusion. We never want people to change - only add to the amazing mix of people that work for mthree.
+
+
+
+
+
+",Linkedin,Senior Database Administrator,,2022-03-07 22:44:12,"Consulting, Finance, and Accounting/Auditing",
+12,2942622916,Database Developer/Data Engineer (DB2),Full-time,Entry level,mthree,IT Services and IT Consulting,"Montreal, QC","
+
+
+
+Database Developer / Data Engineer (DB2) with Python, Linux, Unix, SQL
+.
+
+
+
+
+Here at mthree, we pair talented graduates with leading global businesses. We’re always on the lookout for ambitious graduates to join the mthree Alumni Graduate Program, kick-starting your tech career within an entry-level Software Developer role and working onsite with a leading fintech organization in Montreal, Quebec.
+
+
+
+
+Our 24-month graduate program begins with 4-8 weeks of paid training and career coaching, where you’ll learn everything you need to hit the ground running as a software developer.
+
+
+
+
+After you've completed the paid training, you'll have the opportunity to fast-track your career at a global investment bank or leading tech company.
+
+
+
+
+
+What you’ll do:
+
+
+If successful, you’ll work with a leading Investment Bank, located in Montreal, as a software developer, designing, developing and maintaining complex applications in a global team environment.
+
+
+
+
+
+Introduction: 
+
+
+This is a data Engineer/DB2 developer role in the team responsible for developing on the firm's Trade Capture data stores that holds the transactional bigdata for real time and archive processing and getting it into the archives and data lake.
+
+
+
+
+The global team consists of highly technical team members who are adaptable to both hands on development and project management. We deliver multiple projects for multiple business areas in parallel. The business owners and subject matter experts will be globally distributed, making communication and pro-active to be important. You will be expected to work closely with our operations partners on requirements for projects.
+
+
+
+
+The development will be performed using an agile methodology which is based on scrum (time boxing, daily scrum meetings, retrospectives, etc.) and XP (continuous integration, refactoring, unit testing, etc.) best practices. Candidates must therefore be able to work collaboratively, demonstrate good ownership and be able to work well in teams.
+
+
+
+
+ 
+Primary responsibilities include:
+
+
+
+Translate business requirement into queries against a set of relational tables and produce reporting based on the requirements.
+
+Design and build reporting layer from different data sources and act as a SPOC for user queries
+
+Database and ETL development, including stored procedures, queries, performance tuning etc., using python, SQL and ETL tools such as Informatica.
+
+Efficient and clean automation script (using Python etc.) as part of the ETL process.
+
+ The current global team members are all very skilled in domain modeling, database design, big data, Java and messaging so this is an excellent opportunity to play a key role in the growing team.
+
+
+
+
+
+
+Technical Skills Requirement
+
+
+
+Strong relational database skills especially with DB2/Sybase or/and Greenplum.
+
+Knowledge of Hadoop/Spark is desirable.
+
+Create high quality and optimized stored procedures and queries
+
+Experience with Power Designer or some similar modeling tool.
+
+Strong with scripting language such as Python and Unix / K-Shell
+
+Strong knowledge base of relational database performance and tuning such as: proper use of indices, database statistics/reorgs, de-normalization concepts.
+
+Experience with data mining is a big plus
+
+Familiar with lifecycle of a trade and flows of data in an investment banking operation.
+
+Experienced in Agile development process
+
+
+
+
+
+
+What you need
+:
+
+
+Bachelor of Science in Computer Science
+
+OOP development experience
+
+Solid software engineering principles (data structures, OO, design patterns, multithreading)
+
+Good trouble shooting and debugging skills
+
+Working knowledge of database concepts (SQL, stored procs, schema design)
+
+Understanding of the formal software development lifecycle (SDLC)
+
+Understanding of test-driven development
+
+
+
+
+
+
+ What you’ll receive:
+
+
+
+Fully paid, in-depth and interactive training with a diverse group of like-minded graduates, delivered by experts with working knowledge of the field.
+
+A competitive graduate salary
+
+Pay increases every 6 months
+
+A flexible benefits package including gym membership
+
+Ongoing training and pastoral care
+
+Invaluable industry experience and the opportunity to start a career in a desirable and competitive industry
+
+
+
+
+
+DIVERSITY:
+
+
+We take great pride in celebrating the diversity of each and every individual who contributes to making mthree the company it is today and will be in the future. We value diversity both within mthree and with our partner companies, and we’re proud to provide an environment where all our colleagues can flourish by promoting a strong culture of equality but most importantly, inclusion. We never want people to change - only add to the amazing mix of people that work for mthree.
+
+
+
+",Linkedin,Senior Database Administrator,,2022-03-07 22:29:46,Engineering and Information Technology,

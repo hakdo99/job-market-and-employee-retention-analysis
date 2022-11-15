@@ -1,0 +1,142 @@
+{% extends "layout.html" %}
+{% block fore %}
+active
+{% endblock %}
+{% block content %}
+    <div class="container">
+        <!-- TODO: Populate with employee name -->
+        <p>Analysis for Employee: <span id="employee_searched" style="font-weight:bold;">{{name}}</span></p>
+    </div>
+    <nav>
+      <div class="nav nav-tabs" id="nav-tab" role="tablist">
+        <button class="nav-link active" id="nav-chart-tab" data-bs-toggle="tab" data-bs-target="#nav-chart" type="button" role="tab" aria-controls="nav-chart" aria-selected="true">Attrition Prediction</button>
+        <button class="nav-link" id="nav-skill-tab" data-bs-toggle="tab" data-bs-target="#nav-skill" type="button" role="tab" aria-controls="nav-skill" aria-selected="false">Salary & Skills</button>
+      </div>
+    </nav>
+    <div class="tab-content" id="nav-tabContent">
+      <div class="tab-pane fade show active" id="nav-chart" role="tabpanel" aria-labelledby="nav-chart-tab">
+		<p>Chance of leaving the company: <span id="leave_chance" style="font-weight:bold;">{{leave}}</span></p>
+        <div class="container">
+            <!-- Populate with results['charts'] -->
+            <!-- <div class="bd-example">
+              <canvas id="predict_chart1"></canvas>
+			  <p>Chance of leaving the company: {{leave}}</p>
+            </div> -->
+			
+			<div class="bd-example" style="width: 30%">
+				<canvas id="retention_chart" width="100" height="100"></canvas>
+			</div>
+        </div>
+      </div>
+      <div class="tab-pane fade" id="nav-skill" role="tabpanel" aria-labelledby="nav-skill-tab">
+		<div class="container">
+			<div class="bd-example">
+				<div class="card">
+					<div class="card-body">
+					<!-- TODO by Ha: To be populated with matching data -->
+					<p>Job Title: <span id="employee_job_title" style="font-weight:bold;">{{job_title}}</span></p>
+
+					<!-- Dunno why the badges become not visible when viewed -->
+
+					<button type="button" class="btn btn-primary">Average Salary: <span class="badge badge-light">CAD {{avg_salary}}</span></h4></button>
+					</div>
+				</div>
+				<p>Top skills:</p>
+					<table class="table table-striped" id="employee-record">
+						<thead>
+						<tr>
+							<th scope="col">#</th>
+							<th scope="col">Skills</th>							
+						</tr>
+						</thead>
+						<tbody>
+						<!-- {% for skill in skills %}
+						<tr>
+							<th scope="row">{{loop.index}}</th>
+							<td>{{skill}}</td>												
+						</tr>
+						{% endfor %}				 -->
+						<tr>
+							<th scope="row">1</th>
+							<td>{{skills[0]}}</td>
+						</tr>
+						<tr>
+							<th scope="row">2</th>
+							<td>{{skills[1]}}</td>
+						</tr>
+						<tr>
+							<th scope="row">3</th>
+							<td>{{skills[2]}}</td>
+						</tr>
+						<tr>
+							<th scope="row">4</th>
+							<td>{{skills[3]}}</td>
+						</tr>
+						<tr>
+							<th scope="row">5</th>
+							<td>{{skills[4]}}</td>
+						</tr>
+						</tbody>
+					</table>
+					<div class="card">
+					<div class="card-body">
+					<!-- Populate with results['skills'] -->
+					<div class="dropdown">
+							<!-- Dunno why the badges become not visible when viewed -->
+						<button type="button" class="btn btn-primary">Skill to build - View Top <span class="badge badge-light">9</span> Similar Jobs</button>
+						<select class="form-control" id="job_role" name="job_role">
+							<option>Assistant Human Resources Manager</option>
+							<option>Software Development Manager, RDS Custom</option>
+							<option>Senior Associate, Technology Recruitment</option>
+							<option>Program Specialist, Managerial Experience & Leadership Strategy</option>
+							<option>Head, Talent Digitization</option>
+						</select>
+					</div>
+	
+					<div>
+					<p id="selected_job">Assistant Human Resources Manager</p><span id="selected_job_match" class="label label-success">Match: 78%</span><span id="selected_job_need" class="label label-info">6,789 needed</span>
+					<table class="table">
+						<thead>
+							<tr>
+							  <th scope="col">#</th>
+							  <th scope="col">Skill</th>
+							  <!-- <th scope="col"> Number of job posts having this skill </th>-->
+							</tr>
+						  </thead>
+						  <tbody>
+						<tr>
+						  <th scope="row">1</th>
+						  <td>people management</td>
+						</tr>
+						<tr>
+						  <th scope="row">2</th>
+						  <td>software development lifecycle</td>
+						</tr>
+						<tr>
+						  <th scope="row">3</th>
+						  <td>professional software engineering practices</td>
+						</tr>
+						<tr>
+						  <th scope="row">4</th>
+						  <td>complex technical information</td>
+						</tr>
+					  </tbody>
+					</table>
+					</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	  </div>
+    </div>
+    <script>
+        var data_obj_python = JSON.parse('{{ results | tojson | safe }}');
+		console.log(data_obj_python)
+		var pred_json = JSON.parse('{{ prediction | tojson | safe }}');
+		console.log(pred_json)
+		// var skills_json = JSON.parse('{{ skills | tojson | safe }}');
+		// console.log(skills_json)
+    </script>
+    <script src="/static/js/PlotChart.js"></script>
+	<script src="/static/js/JobSkills.js"></script>
+{% endblock %}

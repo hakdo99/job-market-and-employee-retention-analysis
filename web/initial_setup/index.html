@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+
+<!--
+A simple Flask App which takes
+a user's name as input and responds
+with "Hello {name}!"
+-->
+
+<html>
+    <head>
+        <title>Simple Flask App</title>
+        <link rel="shortcut icon" href="{{url_for('static', filename='favicon.png')}}" type="image/x-icon">
+    </head>
+    <body>
+        <form method="POST">
+            What's your name? <input type="text" name="name-input"><br>
+            <button type="submit">Submit</button>
+        </form>
+        <p>{{message}}</p>
+    </body>
+</html>

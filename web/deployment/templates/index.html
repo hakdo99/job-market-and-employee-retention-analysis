@@ -1,0 +1,80 @@
+{% extends "layout.html" %}
+{% block home %}
+active
+{% endblock %}
+{% block content %}
+<h1 style="color: #5e9ca0;">Transforming <span style="color: #000000;">Talent Management Experience</span> with Job Market Data</h1>
+	<p>{{message}}</p>
+	<h2 style="color: #2e6c80;">Introduction:</h2>
+		<p>We are dathusiats733 and here in this final project we have the passion and objectives to transform the way talent management experience with job market data by providing:</p>
+			<ul>
+			<li>
+			<p>Data Driven Talent Management approach</p>
+			</li>
+			<li>Model to provide insights in facilitating HR decisions</li>
+			</ul>
+	<h2 style="color: #2e6c80;">Questions we would like to answer in this project:</h2>
+		<ol>
+		<li>Is there a clear relationship between the job market status quo and employee retention? Are those employees with skills in high demand less likely to stay put with company?</li>
+		<li>What can we do preemptively to make them stay? What are the key factors affecting the willingness of employees staying with the company?</li>
+		<li>Are salary / short-term incentives useful in increasing employee satisfaction?</li>
+		</ol>
+	<h2 style="color: #2e6c80;">Our Datasets Used:</h2>
+	<p>We analyzed on the job market data on modeling influence by external factors - mainly salary and job demand</p>
+		<ul>
+			<li>External datasets on the job postings during the period of investigation from major job platforms
+				<ul>
+				<li>Indeed</li>
+				<li>LinkedIn</li>
+				<li>Workopolis</li>
+				<li>Glassdoor</li>
+				</ul>
+			</li>
+			<li>The census from Statistics Canada about occupations</li>
+		</ul>
+	<p>Regarding employee data, we chose IBM HR Analytics Employee Attrition and Performance dataset, which is synthetic in nature, for our employee retention analysis.</p>
+	<h2 style="color: #2e6c80;">Our Methodology:</h2>
+	
+	<img src="/static/images/methodology.png" alt="Our Methodology" />
+
+		<p><strong><img src="test" alt="" />1. Data Collection</strong></p>
+		<div>There are 3 different datasets collected for our project.</div>
+		<ul>
+		<li>Latest job posts scraped from the four major job search platforms (Indeed, LinkedIn, Workopolis, Glassdoor)</li>
+		<li>Average Salary information for respective job titles in Canada is scraped from Talent</li>
+		<li>IBM HR Analytics Employee Attrition and Performance dataset obtained from Kaggle</li>
+		</ul>
+		<div>Employee dataset can be replaced by the company's own employee dataset that is lookind adapt this solution.</div>
+		<div>&nbsp;</div>
+		<div><strong>2. Data Pre-processing and Integration</strong></div>
+		<div>&nbsp;</div>
+		<div>We pre-processed job posts collected in different forms and integrate all the job posts as a single data source for further analysis</div>
+		<ul>
+		<li>Remove duplicate job posts within respective datasets</li>
+		<li>Assign unique jobpost_id to those records whose ids are not available</li>
+		<li>Jaccard Similarity: Apply Jaccard Similarity to detect and remove similar (possibly the same) job posts collected from different platforms</li>
+		</ul>
+		<div><strong>3. Data Cleansing and Standardization</strong></div>
+		<div>&nbsp;</div>
+		<div>In order to facilitate easier data handilng and EDA (which will be conducted later in the pipeline), we performed data cleaning and standardize values. Standardizaiton of values includes: expected salary, location, remote work indicators.</div>
+		<div>&nbsp;</div>
+		<div><strong>4. Data Storage</strong></div>
+		<div>&nbsp;</div>
+		<div>We have used MongoDB to store all the data we have collected for our anlaysis.</div>
+		<div>&nbsp;</div>
+		<div><strong>5. Data Analysis</strong></div>
+		<div>&nbsp;</div>
+		<div>We performed a wide range of data analysis to derive meaninful insights from the available data.</div>
+		<ul>
+		<li>Job Skill Extraction: Using NLP, we are extracting sought-after skillsets for different job titles</li>
+		<li>Training of machine learning model: Using the avialble datasets, implement a machine learning model that will predict probabilities of a particular employee leaving the company</li>
+		<li>EDA: Identify interesting patterns and trend in the current job market</li>
+		</ul>
+		<div><strong>6. Data Visualization</strong></div>
+		<div>&nbsp;</div>
+		<div>Using this web front-end interface, we displayed all the interesting facts and predictions:</div>
+		<ul>
+		<li>Visualization of EDA</li>
+		<li>Employee Retention Prediction</li>
+		</ul>
+{% endblock %}
